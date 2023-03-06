@@ -1,0 +1,53 @@
+Statistic Code
+01) Date: The date at which games are played
+02) Time: The time at which games are played
+03) Comp: The type of competition of the games
+04) Round: The matchweek of the games
+05) Day: The day of the week at which games are played
+06) Venue: Whether the game is played at home or away
+07) Result: Win, Draw or Loss
+08) GF: Goals scored by the team
+09) GA: Goals conceded by the team
+10) Opponent: Name of the opponent team
+11) XG: Expected goals to be scored by the team
+12) XGA: Expected goals to be conceded by the team
+13) Poss: The amount of possession of the ball
+14) Attendance: The number of audience in the stadium for the game
+15) Captain: The name of team's captain
+16) Formation: The team's formation
+17) Referee: The name of the head referee for the game
+18) Match Report: Link to the match report
+19) Notes: Extra remarks for the match
+20) Gls: Total number of goals scored in the match
+21) Sh: Total number of shots taken by the team
+22) SoT: Total number of shots on target by the team
+23) Dist: Average distance in yards of shots taken by the team
+24) SoTA: Total number of shots on target against the team
+25) Save%: Percentage of shots saved by the keeper
+26) CS: Clean sheets by the team
+27) PSxG: Post shot expected goals 
+28) Cmp: Total number of passes completed by the team
+29) Cmp.1: Total number of short passes completed by the team
+30) Cmp.2: Total number of medium passes completed by the team
+31) Cmp.3: Total number of long passes completed by the team
+32) Cmp%: Percentage of passes completed by the team
+33) Cmp%.1: Percentage of short passes completed by the team
+34) Cmp%.2: Percentage of medium passes completed by the team
+35) Cmp%.3: Percentage of long passes completed by the team
+36) PrgDist: Total progessive distance of the completed passes
+37) Ast: Number of assists during the game
+38) PPA: Completed passes into the 18-yard box
+39) PrgP: Total passes that progress at least 10 yards in the field
+40) SCA: Total number of shot creating actions
+41) GCA: Total number of goal creating actions
+42) TklW: Total number of tackles won 
+43) Int: Total number of interceptions completed
+44) Tkl+Int: Total number of tackles and interceptions
+45) Err: Defensive errors that lead to an opponent's shot
+46) Succ: Number of dribbles completed successfully
+47) Succ%: Percentage of successful dribbles completed
+48) CrdY: Number of yellow cards
+49) Fls: Number of fouls committed by the team
+50) Won%: Percentage of aerial duals won by the team
+51) Season: The league season
+52) Team: The name of the team

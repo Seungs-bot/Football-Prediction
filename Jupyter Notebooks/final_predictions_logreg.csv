@@ -1,0 +1,259 @@
+,x_odds,d_odds,y_odds,btts_odds,nbtts_odds,above_odds,below_odds,date,round,x,y,result_preds,result_actual,btts_preds,btts_actual,above_preds,above_actual
+0,1.55,3.9,4.5,1.85,1.8,1.83,1.83,8/5/2022,Matchweek 1,Arsenal,Crystal Palace,D,X,NA,N,NA,N
+79,4.5,3.9,1.55,1.85,1.8,1.83,1.83,8/5/2022,Matchweek 1,Crystal Palace,Arsenal,D,Y,NA,N,NA,N
+16,1.8,3.2,3.9,1.8,1.85,2,1.7,8/6/2022,Matchweek 1,Aston Villa,Bournemouth,D,Y,NA,N,Y,N
+32,3.9,3.2,1.8,1.8,1.85,2,1.7,8/6/2022,Matchweek 1,Bournemouth,Aston Villa,D,X,NA,N,Y,N
+109,9.5,5.8,1.18,1.8,1.85,NA,NA,8/6/2022,Matchweek 1,Fulham,Liverpool,Y,D,NA,Y,NA,Y
+123,2.3,3.05,2.8,1.67,2,1.9,1.77,8/6/2022,Matchweek 1,Leeds United,Wolverhampton Wanderers,D,X,NA,Y,NA,Y
+153,1.18,5.8,9.5,1.8,1.85,NA,NA,8/6/2022,Matchweek 1,Liverpool,Fulham,X,D,NA,Y,NA,Y
+244,2.8,3.05,2.3,1.67,2,1.9,1.77,8/6/2022,Matchweek 1,Wolverhampton Wanderers,Leeds United,D,Y,NA,Y,NA,Y
+57,4.5,3.8,1.6,1.75,1.9,1.65,2.07,8/7/2022,Matchweek 1,Brighton and Hove Albion,Manchester United,D,X,NA,Y,NA,Y
+168,1.33,4.7,6.5,1.7,1.95,1.53,2.3,8/7/2022,Matchweek 1,Manchester City,West Ham United,X,X,NA,N,Y,N
+180,1.6,3.8,4.5,1.75,1.9,1.65,2.07,8/7/2022,Matchweek 1,Manchester United,Brighton and Hove Albion,D,Y,NA,Y,NA,Y
+227,6.5,4.7,1.33,1.7,1.95,1.53,2.3,8/7/2022,Matchweek 1,West Ham United,Manchester City,Y,Y,NA,N,Y,N
+1,1.48,4,5.2,1.63,2.05,1.6,2.15,8/13/2022,Matchweek 2,Arsenal,Leicester City,D,X,NA,Y,NA,Y
+17,1.7,3.3,4.3,1.9,1.75,2.03,1.67,8/13/2022,Matchweek 2,Aston Villa,Everton,D,X,NA,Y,NA,Y
+33,13,8.5,1.07,2.25,1.53,NA,NA,8/13/2022,Matchweek 2,Bournemouth,Manchester City,Y,Y,NA,N,NA,Y
+94,4.3,3.3,1.7,1.9,1.75,2.03,1.67,8/13/2022,Matchweek 2,Everton,Aston Villa,D,Y,NA,Y,NA,Y
+110,3.2,3.1,2.05,1.67,2,1.9,1.77,8/13/2022,Matchweek 2,Fulham,Wolverhampton Wanderers,D,D,N,N,N,N
+124,2.65,3.3,2.25,1.45,2.45,1.55,2.25,8/13/2022,Matchweek 2,Leeds United,Southampton,D,D,Y,Y,Y,Y
+140,5.2,4,1.48,1.63,2.05,1.6,2.15,8/13/2022,Matchweek 2,Leicester City,Arsenal,D,Y,NA,Y,NA,Y
+169,1.07,8.5,13,2.25,1.53,NA,NA,8/13/2022,Matchweek 2,Manchester City,Bournemouth,X,X,NA,N,NA,Y
+202,2.25,3.3,2.65,1.45,2.45,1.55,2.25,8/13/2022,Matchweek 2,Southampton,Leeds United,D,D,Y,Y,Y,Y
+245,2.05,3.1,3.2,1.67,2,1.9,1.77,8/13/2022,Matchweek 2,Wolverhampton Wanderers,Fulham,D,D,N,N,N,N
+80,9.5,5.2,1.22,2,1.67,1.53,2.3,8/15/2022,Matchweek 2,Crystal Palace,Liverpool,Y,D,NA,Y,NA,N
+154,1.22,5.2,9.5,2,1.67,1.53,2.3,8/15/2022,Matchweek 2,Liverpool,Crystal Palace,X,D,NA,Y,NA,N
+2,1.3,4.5,7.5,1.9,1.75,1.65,2.07,8/20/2022,Matchweek 3,Arsenal,Bournemouth,D,X,N,N,NA,Y
+18,2.75,3,2.35,1.82,1.82,2.03,1.97,8/20/2022,Matchweek 3,Aston Villa,Crystal Palace,Y,Y,N,Y,N,Y
+34,7.5,4.5,1.3,1.9,1.75,1.65,2.07,8/20/2022,Matchweek 3,Bournemouth,Arsenal,D,Y,N,N,NA,Y
+81,2.35,3,2.75,1.82,1.82,2.03,1.97,8/20/2022,Matchweek 3,Crystal Palace,Aston Villa,X,X,N,Y,N,Y
+141,1.63,3.8,4,1.5,2.3,1.5,2.35,8/20/2022,Matchweek 3,Leicester City,Southampton,D,Y,NA,Y,N,Y
+203,1.63,3.8,4,1.5,2.3,1.5,2.35,8/20/2022,Matchweek 3,Southampton,Leicester City,D,X,NA,Y,N,Y
+58,2.75,3.1,2.3,1.67,2,1.87,1.8,8/21/2022,Matchweek 3,Brighton and Hove Albion,West Ham United,D,X,Y,N,Y,N
+68,1.37,4.4,5.8,1.63,2.05,1.47,2.45,8/21/2022,Matchweek 3,Chelsea,Leeds United,D,Y,NA,N,Y,Y
+125,5.8,4.4,1.37,1.63,2.05,1.47,2.45,8/21/2022,Matchweek 3,Leeds United,Chelsea,D,X,NA,N,Y,Y
+228,2.3,3.1,2.75,1.67,2,1.87,1.8,8/21/2022,Matchweek 3,West Ham United,Brighton and Hove Albion,D,Y,Y,N,Y,N
+155,1.67,4.4,3.3,1.45,2.45,NA,NA,8/22/2022,Matchweek 3,Liverpool,Manchester United,X,Y,Y,Y,Y,Y
+181,3.3,4.4,1.67,1.45,2.45,NA,NA,8/22/2022,Matchweek 3,Manchester United,Liverpool,Y,X,Y,Y,Y,Y
+3,1.3,4.7,7,1.7,1.95,NA,NA,8/27/2022,Matchweek 4,Arsenal,Fulham,D,X,NA,Y,NA,Y
+35,10,8,1.12,1.87,1.77,NA,NA,8/27/2022,Matchweek 4,Bournemouth,Liverpool,Y,Y,N,N,NA,Y
+59,1.65,3.5,4.3,1.7,1.95,1.75,1.93,8/27/2022,Matchweek 4,Brighton and Hove Albion,Leeds United,X,X,Y,N,Y,N
+69,1.33,4.5,7,1.8,1.85,1.53,2.3,8/27/2022,Matchweek 4,Chelsea,Leicester City,X,X,N,Y,N,Y
+82,11,6,1.15,1.6,2.1,NA,NA,8/27/2022,Matchweek 4,Crystal Palace,Manchester City,Y,Y,N,Y,NA,Y
+111,7,4.7,1.3,1.7,1.95,NA,NA,8/27/2022,Matchweek 4,Fulham,Arsenal,D,Y,NA,Y,NA,Y
+126,4.3,3.5,1.65,1.7,1.95,1.75,1.93,8/27/2022,Matchweek 4,Leeds United,Brighton and Hove Albion,Y,Y,Y,N,Y,N
+142,7,4.5,1.33,1.8,1.85,1.53,2.3,8/27/2022,Matchweek 4,Leicester City,Chelsea,Y,Y,N,Y,N,Y
+156,1.12,8,10,1.87,1.77,NA,NA,8/27/2022,Matchweek 4,Liverpool,Bournemouth,X,X,N,N,NA,Y
+170,1.15,6,11,1.6,2.1,NA,NA,8/27/2022,Matchweek 4,Manchester City,Crystal Palace,X,X,N,Y,NA,Y
+182,1.85,3.6,3.3,1.43,2.5,1.47,2.45,8/27/2022,Matchweek 4,Manchester United,Southampton,D,X,Y,N,NA,N
+204,3.3,3.6,1.85,1.43,2.5,1.47,2.45,8/27/2022,Matchweek 4,Southampton,Manchester United,D,Y,Y,N,NA,N
+19,2,3.2,3.2,1.7,1.95,1.8,1.87,8/28/2022,Matchweek 4,Aston Villa,West Ham United,D,Y,NA,N,NA,N
+229,3.2,3.2,2,1.7,1.95,1.8,1.87,8/28/2022,Matchweek 4,West Ham United,Aston Villa,D,X,NA,N,NA,N
+60,2.2,2.9,3.05,1.82,1.82,1.97,1.72,8/30/2022,Matchweek 5,Brighton and Hove Albion,Fulham,D,Y,Y,Y,Y,Y
+70,1.48,3.9,5.2,1.7,1.95,1.65,2.07,8/30/2022,Matchweek 5,Chelsea,Southampton,D,Y,NA,Y,N,Y
+95,3.5,3.5,1.82,1.6,2.1,1.7,2,8/30/2022,Matchweek 5,Everton,Leeds United,D,D,Y,Y,Y,N
+112,3.05,2.9,2.2,1.82,1.82,1.97,1.72,8/30/2022,Matchweek 5,Fulham,Brighton and Hove Albion,D,X,Y,Y,Y,Y
+127,1.82,3.5,3.5,1.6,2.1,1.7,2,8/30/2022,Matchweek 5,Leeds United,Everton,D,D,Y,Y,Y,N
+205,5.2,3.9,1.48,1.7,1.95,1.65,2.07,8/30/2022,Matchweek 5,Southampton,Chelsea,D,X,NA,Y,N,Y
+4,1.33,4.7,6.5,1.67,2,1.53,2.3,8/31/2022,Matchweek 5,Arsenal,Aston Villa,X,X,N,Y,N,Y
+20,6.5,4.7,1.33,1.67,2,1.53,2.3,8/31/2022,Matchweek 5,Aston Villa,Arsenal,Y,Y,N,Y,N,Y
+36,3.4,3.2,1.97,1.82,1.82,2.03,1.67,8/31/2022,Matchweek 5,Bournemouth,Wolverhampton Wanderers,D,D,NA,N,NA,N
+157,1.23,5.2,8.5,1.67,2,1.8,1.87,8/31/2022,Matchweek 5,Liverpool,Newcastle United,X,X,Y,Y,Y,Y
+194,8.5,5.2,1.23,1.67,2,1.8,1.87,8/31/2022,Matchweek 5,Newcastle United,Liverpool,Y,Y,Y,Y,Y,Y
+216,2.95,3.5,1.95,,1.58,1.7,2,8/31/2022,Matchweek 5,Tottenham Hotspur,West Ham United,NA,D,Y,Y,NA,N
+230,2.95,3.5,1.95,1.58,2.15,1.7,2,8/31/2022,Matchweek 5,West Ham United,Tottenham Hotspur,NA,D,Y,Y,NA,N
+246,1.97,3.2,3.4,1.82,1.82,2.03,1.67,8/31/2022,Matchweek 5,Wolverhampton Wanderers,Bournemouth,D,D,NA,N,NA,N
+143,3,3.8,1.85,1.45,2.45,1.5,2.35,9/1/2022,Matchweek 5,Leicester City,Manchester United,D,Y,NA,N,Y,N
+183,1.85,3.8,3,1.45,2.45,1.5,2.35,9/1/2022,Matchweek 5,Manchester United,Leicester City,D,X,NA,N,Y,N
+21,8,5.5,1.23,1.67,2,2,1.7,9/3/2022,Matchweek 6,Aston Villa,Manchester City,Y,D,N,Y,NA,N
+48,2.03,3.3,3.05,1.6,2.1,1.75,1.93,9/3/2022,Matchweek 6,Brentford,Leeds United,D,X,NA,Y,Y,Y
+71,1.6,3.6,4.5,1.8,1.85,1.83,1.83,9/3/2022,Matchweek 6,Chelsea,West Ham United,X,X,NA,Y,NA,Y
+83,3.5,3.05,1.95,1.77,1.87,2,1.7,9/3/2022,Matchweek 6,Crystal Palace,Newcastle United,D,D,NA,N,NA,N
+96,6.5,4.7,1.33,1.67,2,1.49,2.4,9/3/2022,Matchweek 6,Everton,Liverpool,Y,D,Y,N,Y,N
+113,5.2,4.2,1.45,1.63,2.05,1.53,2.3,9/3/2022,Matchweek 6,Fulham,Tottenham Hotspur,Y,Y,NA,Y,NA,Y
+128,3.05,3.3,2.03,1.6,2.1,1.75,1.93,9/3/2022,Matchweek 6,Leeds United,Brentford,D,Y,NA,Y,Y,Y
+158,1.33,4.7,6.5,1.67,2,1.49,2.4,9/3/2022,Matchweek 6,Liverpool,Everton,X,D,Y,N,Y,N
+171,1.23,5.5,8,1.67,2,2,1.7,9/3/2022,Matchweek 6,Manchester City,Aston Villa,X,D,N,Y,NA,N
+195,1.95,3.05,3.5,1.77,1.87,2,1.7,9/3/2022,Matchweek 6,Newcastle United,Crystal Palace,D,D,NA,N,NA,N
+206,3.2,3.2,2,1.7,1.95,1.9,1.77,9/3/2022,Matchweek 6,Southampton,Wolverhampton Wanderers,D,Y,Y,N,NA,N
+217,1.45,4.2,5.2,1.63,2.05,1.53,2.3,9/3/2022,Matchweek 6,Tottenham Hotspur,Fulham,X,X,NA,Y,NA,Y
+231,4.5,3.6,1.6,1.8,1.85,1.83,1.83,9/3/2022,Matchweek 6,West Ham United,Chelsea,Y,Y,NA,Y,NA,Y
+247,2,3.2,3.2,1.7,1.95,1.9,1.77,9/3/2022,Matchweek 6,Wolverhampton Wanderers,Southampton,D,X,Y,N,NA,N
+5,2.75,3.4,2.15,1.48,2.35,1.55,2.25,9/4/2022,Matchweek 6,Arsenal,Manchester United,X,Y,NA,Y,Y,Y
+61,1.95,3.4,3.1,1.75,1.9,1.9,1.77,9/4/2022,Matchweek 6,Brighton and Hove Albion,Leicester City,X,X,N,Y,Y,Y
+144,3.1,3.4,1.95,1.75,1.9,1.9,1.77,9/4/2022,Matchweek 6,Leicester City,Brighton and Hove Albion,Y,Y,N,Y,Y,Y
+184,2.15,3.4,2.75,1.48,2.35,1.55,2.25,9/4/2022,Matchweek 6,Manchester United,Arsenal,Y,X,NA,Y,Y,Y
+22,1.95,3.3,3.4,1.67,2,1.75,1.93,9/16/2022,Matchweek 8,Aston Villa,Southampton,D,X,NA,N,NA,N
+207,3.4,3.3,1.95,1.67,2,1.75,1.93,9/16/2022,Matchweek 8,Southampton,Aston Villa,D,Y,NA,N,NA,N
+37,8,4.7,1.27,1.9,1.75,1.63,2.1,9/17/2022,Matchweek 8,Bournemouth,Newcastle United,D,D,NA,Y,NA,N
+145,5.8,4.7,1.37,1.6,2.1,1.47,2.45,9/17/2022,Matchweek 8,Leicester City,Tottenham Hotspur,Y,Y,N,Y,Y,Y
+172,1.2,5.5,9,1.8,1.85,1.5,2.36,9/17/2022,Matchweek 8,Manchester City,Wolverhampton Wanderers,X,X,NA,N,Y,Y
+196,1.27,4.7,8,1.9,1.75,1.63,2.1,9/17/2022,Matchweek 8,Newcastle United,Bournemouth,D,D,NA,Y,NA,N
+218,1.37,4.7,5.8,1.6,2.1,1.47,2.45,9/17/2022,Matchweek 8,Tottenham Hotspur,Leicester City,X,X,N,Y,Y,Y
+248,9,5.5,1.2,1.8,1.85,1.5,2.36,9/17/2022,Matchweek 8,Wolverhampton Wanderers,Manchester City,Y,Y,NA,N,Y,Y
+6,1.65,3.7,4.1,1.63,2.05,1.65,2.07,9/18/2022,Matchweek 8,Arsenal,Brentford,D,X,NA,N,NA,Y
+49,4.1,3.7,1.65,1.63,2.05,1.65,2.07,9/18/2022,Matchweek 8,Brentford,Arsenal,D,Y,NA,N,NA,Y
+97,2.65,3,2.45,1.7,1.95,1.9,1.77,9/18/2022,Matchweek 8,Everton,West Ham United,D,X,NA,N,NA,N
+232,2.45,3,2.65,1.7,1.95,1.9,1.77,9/18/2022,Matchweek 8,West Ham United,Everton,D,Y,NA,N,NA,N
+7,1.95,3.3,3.2,1.55,2.2,1.53,2.3,10/1/2022,Matchweek 9,Arsenal,Tottenham Hotspur,NA,X,NA,Y,Y,Y
+38,3,3.2,2.1,1.63,2.05,1.77,1.9,10/1/2022,Matchweek 9,Bournemouth,Brentford,D,D,N,N,N,N
+50,2.1,3.2,3,1.63,2.05,1.77,1.9,10/1/2022,Matchweek 9,Brentford,Bournemouth,D,D,N,N,N,N
+62,6,4.8,1.35,1.67,2,1.5,2.35,10/1/2022,Matchweek 9,Brighton and Hove Albion,Liverpool,Y,D,Y,Y,Y,Y
+72,1.6,3.7,4.4,1.8,1.85,1.77,1.9,10/1/2022,Matchweek 9,Chelsea,Crystal Palace,D,X,N,Y,NA,Y
+84,4.4,3.7,1.6,1.8,1.85,1.77,1.9,10/1/2022,Matchweek 9,Crystal Palace,Chelsea,D,Y,N,Y,NA,Y
+98,3,3.05,2.15,1.77,1.87,2,1.7,10/1/2022,Matchweek 9,Everton,Southampton,D,X,Y,Y,NA,Y
+114,2.7,3.1,2.3,1.6,2.1,1.87,1.8,10/1/2022,Matchweek 9,Fulham,Newcastle United,D,Y,NA,Y,Y,Y
+159,1.35,4.8,6,1.67,2,1.5,2.35,10/1/2022,Matchweek 9,Liverpool,Brighton and Hove Albion,X,D,Y,Y,Y,Y
+197,2.3,3.1,2.7,1.6,2.1,1.87,1.8,10/1/2022,Matchweek 9,Newcastle United,Fulham,D,X,NA,Y,Y,Y
+208,2.15,3.05,3,1.77,1.87,2,1.7,10/1/2022,Matchweek 9,Southampton,Everton,D,Y,Y,Y,NA,Y
+219,3.2,3.3,1.95,1.55,2.2,1.53,2.3,10/1/2022,Matchweek 9,Tottenham Hotspur,Arsenal,NA,Y,NA,Y,Y,Y
+233,1.92,3.1,3.6,1.85,1.8,2.1,1.63,10/1/2022,Matchweek 9,West Ham United,Wolverhampton Wanderers,X,X,Y,N,NA,N
+249,3.6,3.1,1.92,1.8,1.85,1.63,2.1,10/1/2022,Matchweek 9,Wolverhampton Wanderers,West Ham United,Y,Y,Y,N,NA,N
+23,2.8,3.1,2.25,1.6,2.1,1.8,1.87,10/2/2022,Matchweek 9,Aston Villa,Leeds United,D,D,NA,N,NA,N
+129,2.25,3.1,2.8,1.6,2.1,1.8,1.87,10/2/2022,Matchweek 9,Leeds United,Aston Villa,D,D,NA,N,NA,N
+173,1.5,4.8,4,1.53,2.25,NA,NA,10/2/2022,Matchweek 9,Manchester City,Manchester United,X,X,NA,Y,NA,Y
+185,4,4.8,1.5,1.53,2.25,NA,NA,10/2/2022,Matchweek 9,Manchester United,Manchester City,Y,Y,NA,Y,NA,Y
+39,3,3.3,2.05,1.63,2.05,1.67,2.03,10/8/2022,Matchweek 10,Bournemouth,Leicester City,D,X,N,Y,NA,Y
+63,2.7,3.3,2.25,1.67,2,1.72,1.97,10/8/2022,Matchweek 10,Brighton and Hove Albion,Tottenham Hotspur,Y,Y,Y,N,NA,N
+73,1.45,3.9,6,1.95,1.7,1.83,1.83,10/8/2022,Matchweek 10,Chelsea,Wolverhampton Wanderers,X,X,NA,N,Y,Y
+146,2.05,3.3,3,1.63,2.05,1.67,2.03,10/8/2022,Matchweek 10,Leicester City,Bournemouth,D,Y,N,Y,NA,Y
+174,1.05,9,17,1.9,1.75,NA,NA,10/8/2022,Matchweek 10,Manchester City,Southampton,X,X,NA,N,Y,Y
+209,17,9,1.05,1.9,1.75,NA,NA,10/8/2022,Matchweek 10,Southampton,Manchester City,Y,Y,NA,N,Y,Y
+220,2.25,3.3,2.7,1.67,2,1.72,1.97,10/8/2022,Matchweek 10,Tottenham Hotspur,Brighton and Hove Albion,X,X,Y,N,NA,N
+250,6,3.9,1.45,1.95,1.7,1.83,1.83,10/8/2022,Matchweek 10,Wolverhampton Wanderers,Chelsea,Y,Y,NA,N,Y,Y
+8,2.35,3.4,2.5,1.37,2.7,1.53,2.3,10/9/2022,Matchweek 10,Arsenal,Liverpool,NA,X,Y,Y,Y,Y
+85,2,3.2,3.3,1.67,2,1.83,1.83,10/9/2022,Matchweek 10,Crystal Palace,Leeds United,D,X,NA,Y,NA,Y
+99,3.3,3.4,1.9,1.6,2.1,1.7,2,10/9/2022,Matchweek 10,Everton,Manchester United,D,Y,NA,Y,NA,Y
+115,4.8,4,1.48,1.8,1.85,1.8,1.87,10/9/2022,Matchweek 10,Fulham,West Ham United,Y,Y,Y,Y,Y,Y
+130,3.3,3.2,2,1.67,2,1.83,1.83,10/9/2022,Matchweek 10,Leeds United,Crystal Palace,D,Y,NA,Y,NA,Y
+160,2.5,3.4,2.35,1.37,2.7,1.53,2.3,10/9/2022,Matchweek 10,Liverpool,Arsenal,NA,Y,Y,Y,Y,Y
+186,1.9,3.4,3.3,1.6,2.1,1.7,2,10/9/2022,Matchweek 10,Manchester United,Everton,D,X,NA,Y,NA,Y
+234,1.48,4,4.8,1.8,1.85,1.8,1.87,10/9/2022,Matchweek 10,West Ham United,Fulham,X,X,Y,Y,Y,Y
+40,3.6,3.5,1.82,1.67,2,1.9,1.77,10/15/2022,Matchweek 11,Bournemouth,Fulham,D,D,N,Y,NA,Y
+86,2.8,3.1,2.25,1.6,2.1,1.72,1.97,10/15/2022,Matchweek 11,Crystal Palace,Leicester City,D,D,NA,N,NA,N
+100,6.5,4.4,1.35,1.75,1.9,1.55,2.25,10/15/2022,Matchweek 11,Everton,Tottenham Hotspur,Y,Y,N,N,NA,N
+116,1.82,3.5,3.6,1.67,2,1.9,1.77,10/15/2022,Matchweek 11,Fulham,Bournemouth,D,D,N,Y,NA,Y
+147,2.25,3.1,2.8,1.6,2.1,1.72,1.97,10/15/2022,Matchweek 11,Leicester City,Crystal Palace,D,D,NA,N,NA,N
+221,1.35,4.4,6.5,1.75,1.9,1.55,2.25,10/15/2022,Matchweek 11,Tottenham Hotspur,Everton,X,X,N,N,NA,N
+9,1.48,4.3,4.8,1.55,2.2,1.53,2.3,10/16/2022,Matchweek 11,Arsenal,Leeds United,D,X,NA,N,Y,N
+24,3.8,3.4,1.8,1.77,1.9,1.9,1.77,10/16/2022,Matchweek 11,Aston Villa,Chelsea,Y,Y,NA,N,Y,N
+74,1.8,3.4,3.8,1.77,1.9,1.9,1.77,10/16/2022,Matchweek 11,Chelsea,Aston Villa,X,X,NA,N,Y,N
+131,4.8,4.3,1.48,1.55,2.2,1.53,2.3,10/16/2022,Matchweek 11,Leeds United,Arsenal,D,Y,NA,N,Y,N
+187,1.8,3.7,3.5,1.53,2.25,1.53,2.3,10/16/2022,Matchweek 11,Manchester United,Newcastle United,D,D,NA,N,NA,N
+198,3.5,3.7,1.8,1.53,2.25,1.53,2.3,10/16/2022,Matchweek 11,Newcastle United,Manchester United,D,D,NA,N,NA,N
+210,2.75,3.1,2.3,1.67,2,1.83,1.83,10/16/2022,Matchweek 11,Southampton,West Ham United,D,D,Y,Y,NA,N
+235,2.3,3.1,2.75,1.67,2,1.83,1.83,10/16/2022,Matchweek 11,West Ham United,Southampton,D,D,Y,Y,NA,N
+87,1.85,3.2,3.7,1.9,1.75,2.07,1.65,10/18/2022,Matchweek 12,Crystal Palace,Wolverhampton Wanderers,D,X,NA,Y,NA,Y
+251,3.7,3.2,1.85,1.9,1.75,2.07,1.65,10/18/2022,Matchweek 12,Wolverhampton Wanderers,Crystal Palace,D,Y,NA,Y,NA,Y
+41,2.5,3,2.55,1.8,1.85,2.03,1.67,10/19/2022,Matchweek 12,Bournemouth,Southampton,D,Y,N,N,Y,N
+101,4.8,3.5,1.6,1.8,1.85,1.83,1.83,10/19/2022,Matchweek 12,Everton,Newcastle United,D,Y,NA,N,NA,N
+161,1.28,4.8,7.5,1.67,2,1.5,2.35,10/19/2022,Matchweek 12,Liverpool,West Ham United,X,X,Y,N,Y,N
+199,1.6,3.5,4.8,1.8,1.85,1.83,1.83,10/19/2022,Matchweek 12,Newcastle United,Everton,D,X,NA,N,NA,N
+211,2.55,3,2.5,1.9,1.75,2.07,1.65,10/19/2022,Matchweek 12,Southampton,Bournemouth,D,X,N,N,Y,N
+236,7.5,4.8,1.28,1.67,2,1.5,2.35,10/19/2022,Matchweek 12,West Ham United,Liverpool,Y,Y,Y,N,Y,N
+25,2.25,3.2,2.75,1.67,2,1.87,1.8,10/20/2022,Matchweek 12,Aston Villa,Fulham,D,Y,NA,N,Y,Y
+117,2.75,3.2,2.25,1.67,2,1.87,1.8,10/20/2022,Matchweek 12,Fulham,Aston Villa,D,X,NA,N,Y,Y
+132,2.8,3.3,2.15,1.5,2.3,1.6,2.15,10/20/2022,Matchweek 12,Leeds United,Leicester City,D,Y,NA,N,Y,N
+148,2.15,3.3,2.8,1.5,2.3,1.6,2.15,10/20/2022,Matchweek 12,Leicester City,Leeds United,D,X,NA,N,Y,N
+75,2.15,3.4,2.75,1.6,2.1,1.72,1.97,10/22/2022,Matchweek 13,Chelsea,Manchester United,X,D,N,Y,Y,N
+88,3.05,3.1,2.1,1.87,1.77,2.03,1.67,10/22/2022,Matchweek 13,Crystal Palace,Everton,D,Y,N,N,N,Y
+102,2.1,3.1,3.05,1.87,1.77,2.03,1.67,10/22/2022,Matchweek 13,Everton,Crystal Palace,D,X,N,N,N,Y
+188,2.75,3.4,2.15,1.6,2.1,1.72,1.97,10/22/2022,Matchweek 13,Manchester United,Chelsea,Y,D,N,Y,Y,N
+10,1.33,4.5,7.5,1.75,1.9,1.6,2.15,10/23/2022,Matchweek 13,Arsenal,Southampton,D,D,NA,Y,NA,N
+26,2,3.2,3.3,1.67,2,1.77,1.9,10/23/2022,Matchweek 13,Aston Villa,Brentford,D,X,N,N,NA,Y
+51,3.3,3.2,2,1.67,2,1.77,1.9,10/23/2022,Matchweek 13,Brentford,Aston Villa,D,Y,N,N,NA,Y
+118,3.2,3.4,1.92,1.43,2.5,1.53,2.3,10/23/2022,Matchweek 13,Fulham,Leeds United,D,X,NA,Y,NA,Y
+133,1.92,3.4,3.2,1.43,2.5,1.53,2.3,10/23/2022,Matchweek 13,Leeds United,Fulham,D,Y,NA,Y,NA,Y
+149,2.85,3.2,2.15,1.67,2,1.8,1.87,10/23/2022,Matchweek 13,Leicester City,Wolverhampton Wanderers,D,X,NA,N,NA,Y
+212,7.5,4.5,1.33,1.75,1.9,1.6,2.15,10/23/2022,Matchweek 13,Southampton,Arsenal,D,D,NA,Y,NA,N
+252,2.15,3.2,2.85,1.67,2,1.8,1.87,10/23/2022,Matchweek 13,Wolverhampton Wanderers,Leicester City,D,Y,NA,N,NA,Y
+42,6,3.9,1.45,1.85,1.8,1.77,1.9,10/24/2022,Matchweek 13,Bournemouth,West Ham United,D,Y,NA,N,Y,N
+237,1.45,3.9,6,1.85,1.8,1.77,1.9,10/24/2022,Matchweek 13,West Ham United,Bournemouth,D,X,NA,N,Y,N
+52,2.05,3.2,3.1,1.67,2,1.83,1.83,10/29/2022,Matchweek 14,Brentford,Wolverhampton Wanderers,D,D,Y,Y,Y,N
+89,2,3.1,3.3,1.77,1.87,2,1.7,10/29/2022,Matchweek 14,Crystal Palace,Southampton,D,X,N,N,NA,N
+103,2.9,3.2,2.15,1.63,2.05,1.8,1.87,10/29/2022,Matchweek 14,Everton,Fulham,D,D,NA,N,NA,N
+119,2.15,3.2,2.9,1.63,2.05,1.8,1.87,10/29/2022,Matchweek 14,Fulham,Everton,D,D,NA,N,NA,N
+134,10,7,1.17,1.7,1.95,NA,NA,10/29/2022,Matchweek 14,Leeds United,Liverpool,Y,X,Y,Y,NA,Y
+162,1.17,7,10,1.7,1.95,NA,NA,10/29/2022,Matchweek 14,Liverpool,Leeds United,X,Y,Y,Y,NA,Y
+213,3.3,3.1,2,1.77,1.87,2,1.7,10/29/2022,Matchweek 14,Southampton,Crystal Palace,D,Y,N,N,NA,N
+253,3.1,3.2,2.05,1.67,2,1.83,1.83,10/29/2022,Matchweek 14,Wolverhampton Wanderers,Brentford,D,D,Y,Y,Y,N
+189,1.6,3.7,4.4,1.75,1.9,1.77,1.9,10/30/2022,Matchweek 14,Manchester United,West Ham United,X,X,Y,N,Y,N
+238,4.4,3.7,1.6,1.75,1.9,1.77,1.9,10/30/2022,Matchweek 14,West Ham United,Manchester United,Y,Y,Y,N,Y,N
+43,4.7,3.8,1.55,1.63,2.05,1.55,2.25,11/5/2022,Matchweek 15,Bournemouth,Leeds United,D,Y,NA,Y,NA,Y
+104,2.2,3.2,2.85,1.67,2,1.83,1.83,11/5/2022,Matchweek 15,Everton,Leicester City,D,Y,N,N,NA,N
+120,11,7,1.13,1.87,1.77,NA,NA,11/5/2022,Matchweek 15,Fulham,Manchester City,Y,Y,NA,Y,Y,Y
+135,1.55,3.8,4.7,1.63,2.05,1.55,2.25,11/5/2022,Matchweek 15,Leeds United,Bournemouth,D,X,NA,Y,NA,Y
+150,2.85,3.2,2.2,1.67,2,1.83,1.83,11/5/2022,Matchweek 15,Leicester City,Everton,D,X,N,N,NA,N
+175,1.13,7,11,1.87,1.77,NA,NA,11/5/2022,Matchweek 15,Manchester City,Fulham,X,X,NA,Y,Y,Y
+11,2.2,3.7,2.5,2.05,1.63,1.75,1.93,11/6/2022,Matchweek 15,Arsenal,Chelsea,NA,X,N,N,Y,N
+27,3.3,3.4,1.87,1.63,2.05,2,1.7,11/6/2022,Matchweek 15,Aston Villa,Manchester United,D,X,Y,Y,Y,Y
+76,2.5,3.7,2.2,1.63,2.05,1.75,1.93,11/6/2022,Matchweek 15,Chelsea,Arsenal,NA,Y,N,N,Y,N
+90,3.9,3.2,1.82,1.85,1.8,2.03,1.67,11/6/2022,Matchweek 15,Crystal Palace,West Ham United,Y,X,NA,Y,Y,Y
+163,1.85,3.5,3.5,1.48,2.35,1.58,2.2,11/6/2022,Matchweek 15,Liverpool,Tottenham Hotspur,NA,X,Y,Y,Y,Y
+190,1.87,3.4,3.3,1.63,2.05,2,1.7,11/6/2022,Matchweek 15,Manchester United,Aston Villa,D,Y,Y,Y,Y,Y
+222,3.5,3.5,1.85,1.48,2.35,1.58,2.2,11/6/2022,Matchweek 15,Tottenham Hotspur,Liverpool,NA,Y,Y,Y,Y,Y
+239,1.82,3.2,3.9,1.85,1.8,2.03,1.67,11/6/2022,Matchweek 15,West Ham United,Crystal Palace,X,Y,NA,Y,Y,Y
+12,1.45,4,5.5,1.9,1.75,1.83,1.83,11/12/2022,Matchweek 16,Arsenal,Wolverhampton Wanderers,X,X,Y,N,Y,N
+44,2.6,2.95,2.5,1.82,1.82,2.07,1.65,11/12/2022,Matchweek 16,Bournemouth,Everton,D,X,N,N,N,Y
+53,11,7.5,1.12,2.05,1.63,NA,NA,11/12/2022,Matchweek 16,Brentford,Manchester City,Y,X,N,Y,Y,Y
+105,2.5,2.95,2.6,1.82,1.82,2.07,1.65,11/12/2022,Matchweek 16,Everton,Bournemouth,D,Y,N,N,N,Y
+136,4.7,4.3,1.48,1.58,2.15,1.58,2.2,11/12/2022,Matchweek 16,Leeds United,Tottenham Hotspur,Y,Y,Y,Y,Y,Y
+151,3.05,3.1,2.1,1.67,2,1.83,1.83,11/12/2022,Matchweek 16,Leicester City,West Ham United,NA,X,NA,N,Y,N
+164,1.2,5.5,10,1.77,1.87,NA,NA,11/12/2022,Matchweek 16,Liverpool,Southampton,X,X,Y,Y,Y,Y
+176,1.12,7.5,11,2.05,1.63,NA,NA,11/12/2022,Matchweek 16,Manchester City,Brentford,X,Y,N,Y,Y,Y
+214,10,5.5,1.2,1.87,1.77,NA,NA,11/12/2022,Matchweek 16,Southampton,Liverpool,Y,Y,Y,Y,Y,Y
+223,1.48,4.3,4.7,1.58,2.15,1.58,2.2,11/12/2022,Matchweek 16,Tottenham Hotspur,Leeds United,X,X,Y,Y,Y,Y
+240,2.1,3.1,3.05,1.67,2,1.83,1.83,11/12/2022,Matchweek 16,West Ham United,Leicester City,NA,Y,NA,N,Y,N
+254,5.5,4,1.45,1.9,1.75,1.83,1.83,11/12/2022,Matchweek 16,Wolverhampton Wanderers,Arsenal,Y,Y,Y,N,Y,N
+28,3.8,3.4,1.75,1.8,1.85,1.75,1.93,11/13/2022,Matchweek 16,Aston Villa,Brighton and Hove Albion,D,X,N,Y,N,Y
+64,1.75,3.4,3.8,1.85,1.8,1.75,1.93,11/13/2022,Matchweek 16,Brighton and Hove Albion,Aston Villa,D,Y,N,Y,N,Y
+121,3.7,3.6,1.72,1.6,2.1,1.63,2.1,11/13/2022,Matchweek 16,Fulham,Manchester United,D,Y,Y,Y,Y,Y
+191,1.72,3.6,3.7,1.6,2.1,1.63,2.1,11/13/2022,Matchweek 16,Manchester United,Fulham,D,X,Y,Y,Y,Y
+13,1.35,4.7,6,1.82,1.82,1.7,2,12/26/2022,Matchweek 17,Arsenal,West Ham United,X,X,NA,Y,Y,Y
+29,5,4,1.5,1.55,2.2,1.53,2.3,12/26/2022,Matchweek 17,Aston Villa,Liverpool,Y,Y,N,Y,NA,Y
+54,3.2,3.5,1.92,1.58,2.15,1.67,2.03,12/26/2022,Matchweek 17,Brentford,Tottenham Hotspur,D,D,NA,Y,NA,Y
+65,2,3.2,3.2,1.7,1.95,1.9,1.77,12/26/2022,Matchweek 17,Brighton and Hove Albion,Southampton,D,X,NA,Y,Y,Y
+91,2.15,3.1,3,1.63,2.05,1.83,1.83,12/26/2022,Matchweek 17,Crystal Palace,Fulham,D,Y,N,N,Y,Y
+106,2.35,2.95,2.8,1.9,1.75,2.1,1.63,12/26/2022,Matchweek 17,Everton,Wolverhampton Wanderers,D,Y,NA,Y,Y,Y
+122,3,3.1,2.15,1.63,2.05,1.83,1.83,12/26/2022,Matchweek 17,Fulham,Crystal Palace,D,X,N,N,Y,Y
+165,1.5,4,5,1.55,2.2,1.53,2.3,12/26/2022,Matchweek 17,Liverpool,Aston Villa,X,X,N,Y,NA,Y
+215,3.2,3.2,2,1.7,1.95,1.9,1.77,12/26/2022,Matchweek 17,Southampton,Brighton and Hove Albion,D,Y,NA,Y,Y,Y
+224,1.92,3.5,3.2,1.58,2.15,1.67,2.03,12/26/2022,Matchweek 17,Tottenham Hotspur,Brentford,D,D,NA,Y,NA,Y
+241,6,4.7,1.35,1.82,1.82,1.7,2,12/26/2022,Matchweek 17,West Ham United,Arsenal,Y,Y,NA,Y,Y,Y
+255,2.8,2.95,2.35,1.9,1.75,2.1,1.63,12/26/2022,Matchweek 17,Wolverhampton Wanderers,Everton,D,X,NA,Y,Y,Y
+45,6.5,5.2,1.3,1.9,1.75,1.5,2.35,12/27/2022,Matchweek 17,Bournemouth,Chelsea,Y,Y,N,N,NA,N
+77,1.3,5.2,6.5,1.9,1.75,1.5,2.35,12/27/2022,Matchweek 17,Chelsea,Bournemouth,X,X,N,N,NA,N
+137,9.5,6,1.17,1.63,2.05,NA,NA,12/28/2022,Matchweek 17,Leeds United,Manchester City,Y,Y,Y,Y,Y,Y
+177,1.17,6,9.5,1.63,2.05,NA,NA,12/28/2022,Matchweek 17,Manchester City,Leeds United,X,X,Y,Y,Y,Y
+55,3.2,3.3,2,1.63,2.05,1.8,1.87,12/30/2022,Matchweek 18,Brentford,West Ham United,D,X,NA,N,Y,N
+152,11,6,1.15,1.82,1.82,NA,NA,12/30/2022,Matchweek 18,Leicester City,Liverpool,Y,Y,N,Y,Y,Y
+166,1.15,6,11,1.82,1.82,NA,NA,12/30/2022,Matchweek 18,Liverpool,Leicester City,X,X,N,Y,Y,Y
+242,2,3.3,3.2,1.63,2.05,1.8,1.87,12/30/2022,Matchweek 18,West Ham United,Brentford,D,Y,NA,N,Y,N
+14,1.7,3.8,4,1.63,2.05,1.77,1.9,12/31/2022,Matchweek 18,Arsenal,Brighton and Hove Albion,X,X,N,Y,NA,Y
+46,2.85,2.7,2.5,1.85,1.8,2.2,1.58,12/31/2022,Matchweek 18,Bournemouth,Crystal Palace,D,Y,N,N,NA,N
+66,4,3.8,1.7,1.63,2.05,1.77,1.9,12/31/2022,Matchweek 18,Brighton and Hove Albion,Arsenal,Y,Y,N,Y,NA,Y
+92,2.5,2.7,2.85,1.85,1.8,2.2,1.58,12/31/2022,Matchweek 18,Crystal Palace,Bournemouth,D,X,N,N,NA,N
+107,12,7,1.12,2,1.67,NA,NA,12/31/2022,Matchweek 18,Everton,Manchester City,Y,D,NA,Y,NA,N
+138,6,4.3,1.4,1.7,1.95,1.58,2.2,12/31/2022,Matchweek 18,Leeds United,Newcastle United,D,D,NA,N,NA,N
+178,1.12,7,12,2,1.67,NA,NA,12/31/2022,Matchweek 18,Manchester City,Everton,X,D,NA,Y,NA,N
+192,1.77,3.6,3.8,1.67,2,1.87,1.8,12/31/2022,Matchweek 18,Manchester United,Wolverhampton Wanderers,D,X,Y,N,Y,N
+200,1.4,4.3,6,1.7,1.95,1.58,2.2,12/31/2022,Matchweek 18,Newcastle United,Leeds United,D,D,NA,N,NA,N
+256,3.8,3.6,1.77,1.67,2,1.87,1.8,12/31/2022,Matchweek 18,Wolverhampton Wanderers,Manchester United,D,Y,Y,N,Y,N
+30,5,4.1,1.48,1.58,2.15,1.5,2.35,1/1/2023,Matchweek 18,Aston Villa,Tottenham Hotspur,D,X,NA,N,NA,N
+225,1.48,4.1,5,1.58,2.15,1.5,2.35,1/1/2023,Matchweek 18,Tottenham Hotspur,Aston Villa,D,Y,NA,N,NA,N
+56,5.8,4.3,1.42,1.63,2.05,1.53,2.3,1/2/2023,Matchweek 19,Brentford,Liverpool,NA,X,NA,Y,Y,Y
+167,1.42,4.3,5.8,1.63,2.05,1.53,2.3,1/2/2023,Matchweek 19,Liverpool,Brentford,NA,Y,NA,Y,Y,Y
+15,1.53,3.9,4.7,1.7,1.95,1.7,2,1/3/2023,Matchweek 19,Arsenal,Newcastle United,X,D,NA,N,NA,N
+47,10,6,1.17,1.95,1.7,NA,NA,1/3/2023,Matchweek 19,Bournemouth,Manchester United,Y,Y,NA,N,NA,Y
+67,2.3,3.4,2.55,1.77,1.87,2,1.7,1/3/2023,Matchweek 19,Brighton and Hove Albion,Everton,D,X,N,Y,N,Y
+108,2.55,3.4,2.3,1.77,1.87,2,1.7,1/3/2023,Matchweek 19,Everton,Brighton and Hove Albion,D,Y,N,Y,N,Y
+193,1.17,6,10,1.95,1.7,NA,NA,1/3/2023,Matchweek 19,Manchester United,Bournemouth,X,X,NA,N,NA,Y
+201,4.7,3.9,1.53,1.7,1.95,1.7,2,1/3/2023,Matchweek 19,Newcastle United,Arsenal,Y,D,NA,N,NA,N
+31,1.75,3.3,4.1,1.9,1.75,2.1,1.63,1/4/2023,Matchweek 19,Aston Villa,Wolverhampton Wanderers,D,D,NA,Y,NA,N
+93,3.1,3.4,1.97,1.63,2.05,1.87,1.8,1/4/2023,Matchweek 19,Crystal Palace,Tottenham Hotspur,D,Y,NA,N,Y,Y
+139,2.65,3.1,2.35,1.63,2.05,1.87,1.8,1/4/2023,Matchweek 19,Leeds United,West Ham United,D,D,Y,Y,Y,Y
+226,1.97,3.4,3.1,1.63,2.05,1.87,1.8,1/4/2023,Matchweek 19,Tottenham Hotspur,Crystal Palace,D,X,NA,N,Y,Y
+243,2.35,3.1,2.65,1.63,2.05,1.87,1.8,1/4/2023,Matchweek 19,West Ham United,Leeds United,D,D,Y,Y,Y,Y
+257,4.1,3.3,1.75,1.9,1.75,2.1,1.63,1/4/2023,Matchweek 19,Wolverhampton Wanderers,Aston Villa,D,D,NA,Y,NA,N
+78,4.7,4.1,1.5,1.67,2,1.67,2.03,1/5/2023,Matchweek 19,Chelsea,Manchester City,NA,Y,NA,N,Y,N
+179,1.5,4.1,4.7,1.67,2,1.67,2.03,1/5/2023,Matchweek 19,Manchester City,Chelsea,NA,X,NA,N,Y,N

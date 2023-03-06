@@ -1,0 +1,40 @@
+,team,features,accuracy,precision
+0,Arsenal,"['won%_rolling_3', 'succ_rolling_3', 'psxg_rolling_3', 'cmp_rolling_3', 'xg_rolling_365', 'save%_rolling_3']",0.88,0.88
+1,Arsenal,"['won%_rolling_3', 'succ_rolling_3', 'psxg_rolling_3', 'cmp_rolling_3', 'xg_rolling_365', 'save%_rolling_3']",0.88,0.88
+2,Aston Villa,"['fls_rolling_3', 'sh_rolling_3', 'save%_rolling_3', 'xga_rolling_3', 'opp_code']",0.78,0.71
+3,Bournemouth,"['tkl+int_rolling_3', 'save%_rolling_3', 'xg_rolling_365', 'sot_rolling_3', 'int_rolling_3']",0.88,0.8
+4,Brentford,['psxg_rolling_3'],0.75,0.0
+5,Brighton and Hove Albion,"['fls_rolling_3', 'sota_rolling_3', 'prgdist_rolling_3', 'xg_rolling_365']",0.73,1.0
+6,Chelsea,"['opp_code', 'xga_rolling_3', 'xg_rolling_365', 'xga_rolling_365']",0.74,0.6
+7,Crystal Palace,"['opp_code', 'dist_rolling_3', 'cs_rolling_365', 'xga_rolling_3', 'poss_rolling_365']",0.87,1.0
+8,Everton,"['int_rolling_3', 'sot_rolling_3', 'ast_rolling_3', 'xga_rolling_3', 'crdy_rolling_3']",0.89,0.83
+9,Fulham,"['succ_rolling_3', 'succ%_rolling_3', 'xga_rolling_365', 'ppa_rolling_3', 'sca_rolling_3', 'xga_rolling_3', 'xg_rolling_3', 'prgdist_rolling_3']",0.87,1.0
+10,Leeds United,"['xga_rolling_365', 'xga_rolling_3']",0.88,1.0
+11,Leicester City,"['succ%_rolling_3', 'won%_rolling_3', 'tklw_rolling_3', 'cmp_rolling_3', 'poss_rolling_365']",0.77,0.62
+12,Liverpool,"['fls_rolling_3', 'poss_rolling_365']",0.61,0.57
+13,Manchester City,"['dist_rolling_3', 'opp_code', 'sota_rolling_3', 'psxg_rolling_3', 'prgdist_rolling_3', 'tkl+int_rolling_3']",0.79,0.76
+14,Manchester United,"['xg_rolling_365', 'xga_rolling_365', 'succ%_rolling_3', 'sota_rolling_3', 'psxg_rolling_3', 'won%_rolling_3', 'opp_code']",0.72,0.7
+15,Newcastle United,"['xga_rolling_3', 'succ_rolling_3', 'psxg_rolling_3', 'prgdist_rolling_3', 'int_rolling_3', 'xga_rolling_365']",0.63,0.8
+16,Southampton,"['xg_rolling_365', 'int_rolling_3', 'tkl+int_rolling_3', 'opp_code', 'cmp_rolling_3', 'dist_rolling_3']",0.9,1.0
+17,Tottenham Hotspur,"['prgdist_rolling_3', 'tklw_rolling_3', 'ppa_rolling_3', 'poss_rolling_365']",0.74,0.78
+18,West Ham United,"['xga_rolling_365', 'cmp_rolling_3', 'tkl+int_rolling_3', 'won%_rolling_3', 'sca_rolling_3', 'poss_rolling_365', 'form_rolling_365']",0.94,1.0
+19,Wolverhampton Wanderers,"['tkl+int_rolling_3', 'xg_rolling_365']",0.84,0.75
+20,Arsenal,"['dist_rolling_3', 'sh_rolling_3']",0.7,0.71
+21,Aston Villa,"['tklw_rolling_3', 'gca_rolling_3', 'sota_rolling_3']",0.81,0.87
+22,Bournemouth,"['save%_rolling_3', 'xga_rolling_3', 'xg_rolling_365', 'sot_rolling_3', 'gf_rolling_3', 'poss_rolling_365']",0.77,0.83
+23,Brentford,['psxg_rolling_3'],0.5,0.5
+24,Brighton and Hove Albion,"['fls_rolling_3', 'xga_rolling_3', 'int_rolling_3', 'dist_rolling_3']",0.8,0.77
+25,Chelsea,"['prgdist_rolling_3', 'cmp_rolling_3', 'xg_rolling_365', 'crdy_rolling_3', 'cmp%_rolling_3', 'dist_rolling_3', 'fls_rolling_3']",0.78,0.75
+26,Crystal Palace,"['ppa_rolling_3', 'cmp%_rolling_3', 'tklw_rolling_3', 'succ_rolling_3', 'ga_rolling_365']",0.77,0.75
+27,Everton,"['sh_rolling_3', 'succ%_rolling_3', 'fls_rolling_3', 'dist_rolling_3', 'sca_rolling_3', 'cmp_rolling_3']",0.79,0.88
+28,Fulham,['won%_rolling_3'],0.8,0.7
+29,Leeds United,"['psxg_rolling_3', 'int_rolling_3', 'opp_code', 'xga_rolling_3']",0.75,0.69
+30,Leicester City,"['xg_rolling_365', 'sot_rolling_3', 'fls_rolling_3', 'succ_rolling_3']",0.84,0.82
+31,Liverpool,"['form_rolling_365', 'poss_rolling_365', 'xg_rolling_365', 'opp_code', 'sh_rolling_3']",0.84,1.0
+32,Manchester City,"['xga_rolling_3', 'succ_rolling_3']",0.79,0.79
+33,Manchester United,"['tklw_rolling_3', 'xg_rolling_365', 'psxg_rolling_3', 'gca_rolling_3']",0.69,0.65
+34,Newcastle United,"['opp_code', 'prgp_rolling_3', 'save%_rolling_3', 'cmp%_rolling_3', 'succ%_rolling_3', 'ga_rolling_365', 'dist_rolling_3']",0.77,0.62
+35,Southampton,"['xga_rolling_3', 'dist_rolling_3']",0.77,0.75
+36,Tottenham Hotspur,"['won%_rolling_3', 'xg_rolling_365', 'xg_rolling_3']",0.71,0.8
+37,West Ham United,"['dist_rolling_3', 'tkl+int_rolling_3', 'won%_rolling_3', 'ast_rolling_3', 'succ_rolling_3', 'save%_rolling_3']",0.76,0.67
+38,Wolverhampton Wanderers,"['xga_rolling_3', 'poss_rolling_365', 'prgdist_rolling_3', 'dist_rolling_3', 'xg_rolling_365', 'save%_rolling_3']",0.88,1.0

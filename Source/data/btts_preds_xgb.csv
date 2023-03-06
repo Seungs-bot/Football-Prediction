@@ -1,0 +1,327 @@
+,actual_x,predicted_x,date,team_x,opponent_x,result_x,round_x,new_team_x,new_opponent_x,actual_y,predicted_y,team_y,opponent_y,result_y,round_y,new_team_y,new_opponent_y
+0,0,0,2022-08-05,Arsenal,Crystal Palace,W,Matchweek 1,Arsenal,Crystal Palace,0,1,Crystal Palace,Arsenal,L,Matchweek 1,Crystal Palace,Arsenal
+1,1,1,2022-08-13,Arsenal,Leicester City,W,Matchweek 2,Arsenal,Leicester City,1,1,Leicester City,Arsenal,L,Matchweek 2,Leicester City,Arsenal
+2,0,1,2022-08-20,Arsenal,Bournemouth,W,Matchweek 3,Arsenal,Bournemouth,0,0,Bournemouth,Arsenal,L,Matchweek 3,Bournemouth,Arsenal
+3,1,1,2022-08-27,Arsenal,Fulham,W,Matchweek 4,Arsenal,Fulham,1,1,Fulham,Arsenal,L,Matchweek 4,Fulham,Arsenal
+4,1,1,2022-08-31,Arsenal,Aston Villa,W,Matchweek 5,Arsenal,Aston Villa,1,0,Aston Villa,Arsenal,L,Matchweek 5,Aston Villa,Arsenal
+5,1,1,2022-09-04,Arsenal,Manchester Utd,L,Matchweek 6,Arsenal,Manchester Utd,1,1,Manchester United,Arsenal,W,Matchweek 6,Manchester Utd,Arsenal
+6,0,1,2022-09-18,Arsenal,Brentford,W,Matchweek 8,Arsenal,Brentford,0,0,Brentford,Arsenal,L,Matchweek 8,Brentford,Arsenal
+7,1,1,2022-10-01,Arsenal,Tottenham,W,Matchweek 9,Arsenal,Tottenham,1,0,Tottenham Hotspur,Arsenal,L,Matchweek 9,Tottenham,Arsenal
+8,1,1,2022-10-09,Arsenal,Liverpool,W,Matchweek 10,Arsenal,Liverpool,1,1,Liverpool,Arsenal,L,Matchweek 10,Liverpool,Arsenal
+9,0,0,2022-10-16,Arsenal,Leeds United,W,Matchweek 11,Arsenal,Leeds,0,0,Leeds United,Arsenal,L,Matchweek 11,Leeds,Arsenal
+10,1,0,2022-10-23,Arsenal,Southampton,D,Matchweek 13,Arsenal,Southampton,1,1,Southampton,Arsenal,D,Matchweek 13,Southampton,Arsenal
+11,0,0,2022-11-06,Arsenal,Chelsea,W,Matchweek 15,Arsenal,Chelsea,0,1,Chelsea,Arsenal,L,Matchweek 15,Chelsea,Arsenal
+12,0,0,2022-11-12,Arsenal,Wolves,W,Matchweek 16,Arsenal,Wolves,0,0,Wolverhampton Wanderers,Arsenal,L,Matchweek 16,Wolves,Arsenal
+13,1,1,2022-12-26,Arsenal,West Ham,W,Matchweek 17,Arsenal,West Ham,1,1,West Ham United,Arsenal,L,Matchweek 17,West Ham,Arsenal
+14,1,1,2022-12-31,Arsenal,Brighton,W,Matchweek 18,Arsenal,Brighton,1,0,Brighton and Hove Albion,Arsenal,L,Matchweek 18,Brighton,Arsenal
+15,0,0,2023-01-03,Arsenal,Newcastle Utd,D,Matchweek 19,Arsenal,Newcastle Utd,0,1,Newcastle United,Arsenal,D,Matchweek 19,Newcastle Utd,Arsenal
+16,0,0,2023-01-15,Arsenal,Tottenham,W,Matchweek 20,Arsenal,Tottenham,0,0,Tottenham Hotspur,Arsenal,L,Matchweek 20,Tottenham,Arsenal
+17,1,0,2023-01-22,Arsenal,Manchester Utd,W,Matchweek 21,Arsenal,Manchester Utd,1,0,Manchester United,Arsenal,L,Matchweek 21,Manchester Utd,Arsenal
+18,0,0,2023-02-04,Arsenal,Everton,L,Matchweek 22,Arsenal,Everton,0,1,Everton,Arsenal,W,Matchweek 22,Everton,Arsenal
+19,1,0,2023-02-11,Arsenal,Brentford,D,Matchweek 23,Arsenal,Brentford,1,0,Brentford,Arsenal,D,Matchweek 23,Brentford,Arsenal
+20,0,1,2022-08-06,Aston Villa,Bournemouth,L,Matchweek 1,Aston Villa,Bournemouth,0,0,Bournemouth,Aston Villa,W,Matchweek 1,Bournemouth,Aston Villa
+21,1,1,2022-08-13,Aston Villa,Everton,W,Matchweek 2,Aston Villa,Everton,1,0,Everton,Aston Villa,L,Matchweek 2,Everton,Aston Villa
+22,1,0,2022-08-20,Aston Villa,Crystal Palace,L,Matchweek 3,Aston Villa,Crystal Palace,1,1,Crystal Palace,Aston Villa,W,Matchweek 3,Crystal Palace,Aston Villa
+23,0,0,2022-08-28,Aston Villa,West Ham,L,Matchweek 4,Aston Villa,West Ham,0,0,West Ham United,Aston Villa,W,Matchweek 4,West Ham,Aston Villa
+24,1,0,2022-08-31,Aston Villa,Arsenal,L,Matchweek 5,Aston Villa,Arsenal,1,1,Arsenal,Aston Villa,W,Matchweek 5,Arsenal,Aston Villa
+25,1,1,2022-09-03,Aston Villa,Manchester City,D,Matchweek 6,Aston Villa,Manchester City,1,0,Manchester City,Aston Villa,D,Matchweek 6,Manchester City,Aston Villa
+26,0,0,2022-09-16,Aston Villa,Southampton,W,Matchweek 8,Aston Villa,Southampton,0,0,Southampton,Aston Villa,L,Matchweek 8,Southampton,Aston Villa
+27,0,0,2022-10-02,Aston Villa,Leeds United,D,Matchweek 9,Aston Villa,Leeds,0,1,Leeds United,Aston Villa,D,Matchweek 9,Leeds,Aston Villa
+28,0,1,2022-10-16,Aston Villa,Chelsea,L,Matchweek 11,Aston Villa,Chelsea,0,0,Chelsea,Aston Villa,W,Matchweek 11,Chelsea,Aston Villa
+29,0,1,2022-10-20,Aston Villa,Fulham,L,Matchweek 12,Aston Villa,Fulham,0,0,Fulham,Aston Villa,W,Matchweek 12,Fulham,Aston Villa
+30,0,0,2022-10-23,Aston Villa,Brentford,W,Matchweek 13,Aston Villa,Brentford,0,0,Brentford,Aston Villa,L,Matchweek 13,Brentford,Aston Villa
+31,1,1,2022-11-06,Aston Villa,Manchester Utd,W,Matchweek 15,Aston Villa,Manchester Utd,1,0,Manchester United,Aston Villa,L,Matchweek 15,Manchester Utd,Aston Villa
+32,1,0,2022-11-13,Aston Villa,Brighton,W,Matchweek 16,Aston Villa,Brighton,1,0,Brighton and Hove Albion,Aston Villa,L,Matchweek 16,Brighton,Aston Villa
+33,1,0,2022-12-26,Aston Villa,Liverpool,L,Matchweek 17,Aston Villa,Liverpool,1,1,Liverpool,Aston Villa,W,Matchweek 17,Liverpool,Aston Villa
+34,0,1,2023-01-01,Aston Villa,Tottenham,W,Matchweek 18,Aston Villa,Tottenham,0,0,Tottenham Hotspur,Aston Villa,L,Matchweek 18,Tottenham,Aston Villa
+35,1,1,2023-01-04,Aston Villa,Wolves,D,Matchweek 19,Aston Villa,Wolves,1,0,Wolverhampton Wanderers,Aston Villa,D,Matchweek 19,Wolves,Aston Villa
+36,1,1,2023-01-13,Aston Villa,Leeds United,W,Matchweek 20,Aston Villa,Leeds,1,0,Leeds United,Aston Villa,L,Matchweek 20,Leeds,Aston Villa
+37,0,0,2023-01-21,Aston Villa,Southampton,W,Matchweek 21,Aston Villa,Southampton,0,0,Southampton,Aston Villa,L,Matchweek 21,Southampton,Aston Villa
+38,1,0,2023-02-04,Aston Villa,Leicester City,L,Matchweek 22,Aston Villa,Leicester City,1,0,Leicester City,Aston Villa,W,Matchweek 22,Leicester City,Aston Villa
+39,1,0,2023-02-12,Aston Villa,Manchester City,L,Matchweek 23,Aston Villa,Manchester City,1,0,Manchester City,Aston Villa,W,Matchweek 23,Manchester City,Aston Villa
+40,0,0,2022-08-06,Bournemouth,Aston Villa,W,Matchweek 1,Bournemouth,Aston Villa,0,1,Aston Villa,Bournemouth,L,Matchweek 1,Aston Villa,Bournemouth
+41,0,1,2022-08-13,Bournemouth,Manchester City,L,Matchweek 2,Bournemouth,Manchester City,0,1,Manchester City,Bournemouth,W,Matchweek 2,Manchester City,Bournemouth
+42,0,0,2022-08-20,Bournemouth,Arsenal,L,Matchweek 3,Bournemouth,Arsenal,0,1,Arsenal,Bournemouth,W,Matchweek 3,Arsenal,Bournemouth
+43,0,0,2022-08-27,Bournemouth,Liverpool,L,Matchweek 4,Bournemouth,Liverpool,0,1,Liverpool,Bournemouth,W,Matchweek 4,Liverpool,Bournemouth
+44,0,0,2022-08-31,Bournemouth,Wolves,D,Matchweek 5,Bournemouth,Wolves,0,0,Wolverhampton Wanderers,Bournemouth,D,Matchweek 5,Wolves,Bournemouth
+45,1,0,2022-09-17,Bournemouth,Newcastle Utd,D,Matchweek 8,Bournemouth,Newcastle Utd,1,1,Newcastle United,Bournemouth,D,Matchweek 8,Newcastle Utd,Bournemouth
+46,0,1,2022-10-01,Bournemouth,Brentford,D,Matchweek 9,Bournemouth,Brentford,0,0,Brentford,Bournemouth,D,Matchweek 9,Brentford,Bournemouth
+47,1,1,2022-10-08,Bournemouth,Leicester City,W,Matchweek 10,Bournemouth,Leicester City,1,0,Leicester City,Bournemouth,L,Matchweek 10,Leicester City,Bournemouth
+48,1,0,2022-10-15,Bournemouth,Fulham,D,Matchweek 11,Bournemouth,Fulham,1,0,Fulham,Bournemouth,D,Matchweek 11,Fulham,Bournemouth
+49,0,0,2022-10-19,Bournemouth,Southampton,L,Matchweek 12,Bournemouth,Southampton,0,1,Southampton,Bournemouth,W,Matchweek 12,Southampton,Bournemouth
+50,0,0,2022-10-24,Bournemouth,West Ham,L,Matchweek 13,Bournemouth,West Ham,0,1,West Ham United,Bournemouth,W,Matchweek 13,West Ham,Bournemouth
+51,1,0,2022-11-05,Bournemouth,Leeds United,L,Matchweek 15,Bournemouth,Leeds,1,1,Leeds United,Bournemouth,W,Matchweek 15,Leeds,Bournemouth
+52,0,0,2022-11-12,Bournemouth,Everton,W,Matchweek 16,Bournemouth,Everton,0,0,Everton,Bournemouth,L,Matchweek 16,Everton,Bournemouth
+53,0,0,2022-12-27,Bournemouth,Chelsea,L,Matchweek 17,Bournemouth,Chelsea,0,0,Chelsea,Bournemouth,W,Matchweek 17,Chelsea,Bournemouth
+54,0,0,2022-12-31,Bournemouth,Crystal Palace,L,Matchweek 18,Bournemouth,Crystal Palace,0,0,Crystal Palace,Bournemouth,W,Matchweek 18,Crystal Palace,Bournemouth
+55,0,0,2023-01-03,Bournemouth,Manchester Utd,L,Matchweek 19,Bournemouth,Manchester Utd,0,0,Manchester United,Bournemouth,W,Matchweek 19,Manchester Utd,Bournemouth
+56,0,0,2023-01-14,Bournemouth,Brentford,L,Matchweek 20,Bournemouth,Brentford,0,0,Brentford,Bournemouth,W,Matchweek 20,Brentford,Bournemouth
+57,0,1,2023-02-04,Bournemouth,Brighton,L,Matchweek 22,Bournemouth,Brighton,0,1,Brighton and Hove Albion,Bournemouth,W,Matchweek 22,Brighton,Bournemouth
+58,1,1,2022-09-03,Brentford,Leeds United,W,Matchweek 6,Brentford,Leeds,1,1,Leeds United,Brentford,L,Matchweek 6,Leeds,Brentford
+59,0,0,2022-09-18,Brentford,Arsenal,L,Matchweek 8,Brentford,Arsenal,0,1,Arsenal,Brentford,W,Matchweek 8,Arsenal,Brentford
+60,0,0,2022-10-01,Brentford,Bournemouth,D,Matchweek 9,Brentford,Bournemouth,0,1,Bournemouth,Brentford,D,Matchweek 9,Bournemouth,Brentford
+61,0,0,2022-10-23,Brentford,Aston Villa,L,Matchweek 13,Brentford,Aston Villa,0,0,Aston Villa,Brentford,W,Matchweek 13,Aston Villa,Brentford
+62,1,0,2022-10-29,Brentford,Wolves,D,Matchweek 14,Brentford,Wolves,1,0,Wolverhampton Wanderers,Brentford,D,Matchweek 14,Wolves,Brentford
+63,1,1,2022-11-12,Brentford,Manchester City,W,Matchweek 16,Brentford,Manchester City,1,1,Manchester City,Brentford,L,Matchweek 16,Manchester City,Brentford
+64,1,0,2022-12-26,Brentford,Tottenham,D,Matchweek 17,Brentford,Tottenham,1,1,Tottenham Hotspur,Brentford,D,Matchweek 17,Tottenham,Brentford
+65,0,0,2022-12-30,Brentford,West Ham,W,Matchweek 18,Brentford,West Ham,0,1,West Ham United,Brentford,L,Matchweek 18,West Ham,Brentford
+66,1,0,2023-01-02,Brentford,Liverpool,W,Matchweek 19,Brentford,Liverpool,1,0,Liverpool,Brentford,L,Matchweek 19,Liverpool,Brentford
+67,0,0,2023-01-14,Brentford,Bournemouth,W,Matchweek 20,Brentford,Bournemouth,0,0,Bournemouth,Brentford,L,Matchweek 20,Bournemouth,Brentford
+68,0,0,2023-01-22,Brentford,Leeds United,D,Matchweek 21,Brentford,Leeds,0,0,Leeds United,Brentford,D,Matchweek 21,Leeds,Brentford
+69,0,0,2023-02-04,Brentford,Southampton,W,Matchweek 22,Brentford,Southampton,0,0,Southampton,Brentford,L,Matchweek 22,Southampton,Brentford
+70,1,0,2023-02-11,Brentford,Arsenal,D,Matchweek 23,Brentford,Arsenal,1,0,Arsenal,Brentford,D,Matchweek 23,Arsenal,Brentford
+71,1,1,2022-08-07,Brighton and Hove Albion,Manchester Utd,W,Matchweek 1,Brighton,Manchester Utd,1,0,Manchester United,Brighton,L,Matchweek 1,Manchester Utd,Brighton
+72,0,0,2022-08-21,Brighton and Hove Albion,West Ham,W,Matchweek 3,Brighton,West Ham,0,0,West Ham United,Brighton,L,Matchweek 3,West Ham,Brighton
+73,0,0,2022-08-27,Brighton and Hove Albion,Leeds United,W,Matchweek 4,Brighton,Leeds,0,1,Leeds United,Brighton,L,Matchweek 4,Leeds,Brighton
+74,1,0,2022-08-30,Brighton and Hove Albion,Fulham,L,Matchweek 5,Brighton,Fulham,1,1,Fulham,Brighton,W,Matchweek 5,Fulham,Brighton
+75,1,0,2022-09-04,Brighton and Hove Albion,Leicester City,W,Matchweek 6,Brighton,Leicester City,1,0,Leicester City,Brighton,L,Matchweek 6,Leicester City,Brighton
+76,1,1,2022-10-01,Brighton and Hove Albion,Liverpool,D,Matchweek 9,Brighton,Liverpool,1,1,Liverpool,Brighton,D,Matchweek 9,Liverpool,Brighton
+77,0,1,2022-10-08,Brighton and Hove Albion,Tottenham,L,Matchweek 10,Brighton,Tottenham,0,0,Tottenham Hotspur,Brighton,W,Matchweek 10,Tottenham,Brighton
+78,1,0,2022-11-13,Brighton and Hove Albion,Aston Villa,L,Matchweek 16,Brighton,Aston Villa,1,0,Aston Villa,Brighton,W,Matchweek 16,Aston Villa,Brighton
+79,1,0,2022-12-26,Brighton and Hove Albion,Southampton,W,Matchweek 17,Brighton,Southampton,1,0,Southampton,Brighton,L,Matchweek 17,Southampton,Brighton
+80,1,0,2022-12-31,Brighton and Hove Albion,Arsenal,L,Matchweek 18,Brighton,Arsenal,1,1,Arsenal,Brighton,W,Matchweek 18,Arsenal,Brighton
+81,1,0,2023-01-03,Brighton and Hove Albion,Everton,W,Matchweek 19,Brighton,Everton,1,0,Everton,Brighton,L,Matchweek 19,Everton,Brighton
+82,0,0,2023-01-14,Brighton and Hove Albion,Liverpool,W,Matchweek 20,Brighton,Liverpool,0,1,Liverpool,Brighton,L,Matchweek 20,Liverpool,Brighton
+83,1,1,2023-01-21,Brighton and Hove Albion,Leicester City,D,Matchweek 21,Brighton,Leicester City,1,0,Leicester City,Brighton,D,Matchweek 21,Leicester City,Brighton
+84,0,1,2023-02-04,Brighton and Hove Albion,Bournemouth,W,Matchweek 22,Brighton,Bournemouth,0,1,Bournemouth,Brighton,L,Matchweek 22,Bournemouth,Brighton
+85,1,0,2023-02-11,Brighton and Hove Albion,Crystal Palace,D,Matchweek 23,Brighton,Crystal Palace,1,0,Crystal Palace,Brighton,D,Matchweek 23,Crystal Palace,Brighton
+86,0,0,2022-08-21,Chelsea,Leeds United,L,Matchweek 3,Chelsea,Leeds,0,0,Leeds United,Chelsea,W,Matchweek 3,Leeds,Chelsea
+87,1,1,2022-08-27,Chelsea,Leicester City,W,Matchweek 4,Chelsea,Leicester City,1,0,Leicester City,Chelsea,L,Matchweek 4,Leicester City,Chelsea
+88,1,0,2022-08-30,Chelsea,Southampton,L,Matchweek 5,Chelsea,Southampton,1,1,Southampton,Chelsea,W,Matchweek 5,Southampton,Chelsea
+89,1,1,2022-09-03,Chelsea,West Ham,W,Matchweek 6,Chelsea,West Ham,1,0,West Ham United,Chelsea,L,Matchweek 6,West Ham,Chelsea
+90,1,0,2022-10-01,Chelsea,Crystal Palace,W,Matchweek 9,Chelsea,Crystal Palace,1,0,Crystal Palace,Chelsea,L,Matchweek 9,Crystal Palace,Chelsea
+91,0,0,2022-10-08,Chelsea,Wolves,W,Matchweek 10,Chelsea,Wolves,0,0,Wolverhampton Wanderers,Chelsea,L,Matchweek 10,Wolves,Chelsea
+92,0,0,2022-10-16,Chelsea,Aston Villa,W,Matchweek 11,Chelsea,Aston Villa,0,1,Aston Villa,Chelsea,L,Matchweek 11,Aston Villa,Chelsea
+93,1,0,2022-10-22,Chelsea,Manchester Utd,D,Matchweek 13,Chelsea,Manchester Utd,1,0,Manchester United,Chelsea,D,Matchweek 13,Manchester Utd,Chelsea
+94,0,1,2022-11-06,Chelsea,Arsenal,L,Matchweek 15,Chelsea,Arsenal,0,0,Arsenal,Chelsea,W,Matchweek 15,Arsenal,Chelsea
+95,0,0,2022-12-27,Chelsea,Bournemouth,W,Matchweek 17,Chelsea,Bournemouth,0,0,Bournemouth,Chelsea,L,Matchweek 17,Bournemouth,Chelsea
+96,0,0,2023-01-05,Chelsea,Manchester City,L,Matchweek 19,Chelsea,Manchester City,0,0,Manchester City,Chelsea,W,Matchweek 19,Manchester City,Chelsea
+97,0,1,2023-01-15,Chelsea,Crystal Palace,W,Matchweek 20,Chelsea,Crystal Palace,0,0,Crystal Palace,Chelsea,L,Matchweek 20,Crystal Palace,Chelsea
+98,0,0,2023-01-21,Chelsea,Liverpool,D,Matchweek 21,Chelsea,Liverpool,0,0,Liverpool,Chelsea,D,Matchweek 21,Liverpool,Chelsea
+99,0,1,2023-02-03,Chelsea,Fulham,D,Matchweek 22,Chelsea,Fulham,0,0,Fulham,Chelsea,D,Matchweek 22,Fulham,Chelsea
+100,1,1,2023-02-11,Chelsea,West Ham,D,Matchweek 23,Chelsea,West Ham,1,0,West Ham United,Chelsea,D,Matchweek 23,West Ham,Chelsea
+101,0,1,2022-08-05,Crystal Palace,Arsenal,L,Matchweek 1,Crystal Palace,Arsenal,0,0,Arsenal,Crystal Palace,W,Matchweek 1,Arsenal,Crystal Palace
+102,1,1,2022-08-15,Crystal Palace,Liverpool,D,Matchweek 2,Crystal Palace,Liverpool,1,1,Liverpool,Crystal Palace,D,Matchweek 2,Liverpool,Crystal Palace
+103,1,1,2022-08-20,Crystal Palace,Aston Villa,W,Matchweek 3,Crystal Palace,Aston Villa,1,0,Aston Villa,Crystal Palace,L,Matchweek 3,Aston Villa,Crystal Palace
+104,1,0,2022-08-27,Crystal Palace,Manchester City,L,Matchweek 4,Crystal Palace,Manchester City,1,1,Manchester City,Crystal Palace,W,Matchweek 4,Manchester City,Crystal Palace
+105,0,0,2022-09-03,Crystal Palace,Newcastle Utd,D,Matchweek 6,Crystal Palace,Newcastle Utd,0,0,Newcastle United,Crystal Palace,D,Matchweek 6,Newcastle Utd,Crystal Palace
+106,1,0,2022-10-01,Crystal Palace,Chelsea,L,Matchweek 9,Crystal Palace,Chelsea,1,0,Chelsea,Crystal Palace,W,Matchweek 9,Chelsea,Crystal Palace
+107,1,1,2022-10-09,Crystal Palace,Leeds United,W,Matchweek 10,Crystal Palace,Leeds,1,0,Leeds United,Crystal Palace,L,Matchweek 10,Leeds,Crystal Palace
+108,0,1,2022-10-15,Crystal Palace,Leicester City,D,Matchweek 11,Crystal Palace,Leicester City,0,0,Leicester City,Crystal Palace,D,Matchweek 11,Leicester City,Crystal Palace
+109,1,0,2022-10-18,Crystal Palace,Wolves,W,Matchweek 12,Crystal Palace,Wolves,1,0,Wolverhampton Wanderers,Crystal Palace,L,Matchweek 12,Wolves,Crystal Palace
+110,0,0,2022-10-22,Crystal Palace,Everton,L,Matchweek 13,Crystal Palace,Everton,0,0,Everton,Crystal Palace,W,Matchweek 13,Everton,Crystal Palace
+111,0,1,2022-10-29,Crystal Palace,Southampton,W,Matchweek 14,Crystal Palace,Southampton,0,0,Southampton,Crystal Palace,L,Matchweek 14,Southampton,Crystal Palace
+112,1,0,2022-11-06,Crystal Palace,West Ham,W,Matchweek 15,Crystal Palace,West Ham,1,0,West Ham United,Crystal Palace,L,Matchweek 15,West Ham,Crystal Palace
+113,0,0,2022-12-26,Crystal Palace,Fulham,L,Matchweek 17,Crystal Palace,Fulham,0,0,Fulham,Crystal Palace,W,Matchweek 17,Fulham,Crystal Palace
+114,0,0,2022-12-31,Crystal Palace,Bournemouth,W,Matchweek 18,Crystal Palace,Bournemouth,0,0,Bournemouth,Crystal Palace,L,Matchweek 18,Bournemouth,Crystal Palace
+115,0,0,2023-01-04,Crystal Palace,Tottenham,L,Matchweek 19,Crystal Palace,Tottenham,0,0,Tottenham Hotspur,Crystal Palace,W,Matchweek 19,Tottenham,Crystal Palace
+116,0,0,2023-01-15,Crystal Palace,Chelsea,L,Matchweek 20,Crystal Palace,Chelsea,0,1,Chelsea,Crystal Palace,W,Matchweek 20,Chelsea,Crystal Palace
+117,1,0,2023-01-18,Crystal Palace,Manchester Utd,D,Matchweek 7,Crystal Palace,Manchester Utd,1,1,Manchester United,Crystal Palace,D,Matchweek 7,Manchester Utd,Crystal Palace
+118,1,0,2023-02-04,Crystal Palace,Manchester Utd,L,Matchweek 22,Crystal Palace,Manchester Utd,1,0,Manchester United,Crystal Palace,W,Matchweek 22,Manchester Utd,Crystal Palace
+119,1,0,2023-02-11,Crystal Palace,Brighton,D,Matchweek 23,Crystal Palace,Brighton,1,0,Brighton and Hove Albion,Crystal Palace,D,Matchweek 23,Brighton,Crystal Palace
+120,1,0,2022-08-13,Everton,Aston Villa,L,Matchweek 2,Everton,Aston Villa,1,1,Aston Villa,Everton,W,Matchweek 2,Aston Villa,Everton
+121,1,1,2022-08-30,Everton,Leeds United,D,Matchweek 5,Everton,Leeds,1,1,Leeds United,Everton,D,Matchweek 5,Leeds,Everton
+122,0,1,2022-09-03,Everton,Liverpool,D,Matchweek 6,Everton,Liverpool,0,1,Liverpool,Everton,D,Matchweek 6,Liverpool,Everton
+123,0,0,2022-09-18,Everton,West Ham,W,Matchweek 8,Everton,West Ham,0,0,West Ham United,Everton,L,Matchweek 8,West Ham,Everton
+124,1,0,2022-10-01,Everton,Southampton,W,Matchweek 9,Everton,Southampton,1,0,Southampton,Everton,L,Matchweek 9,Southampton,Everton
+125,1,1,2022-10-09,Everton,Manchester Utd,L,Matchweek 10,Everton,Manchester Utd,1,0,Manchester United,Everton,W,Matchweek 10,Manchester Utd,Everton
+126,0,0,2022-10-15,Everton,Tottenham,L,Matchweek 11,Everton,Tottenham,0,0,Tottenham Hotspur,Everton,W,Matchweek 11,Tottenham,Everton
+127,0,1,2022-10-19,Everton,Newcastle Utd,L,Matchweek 12,Everton,Newcastle Utd,0,0,Newcastle United,Everton,W,Matchweek 12,Newcastle Utd,Everton
+128,0,0,2022-10-22,Everton,Crystal Palace,W,Matchweek 13,Everton,Crystal Palace,0,0,Crystal Palace,Everton,L,Matchweek 13,Crystal Palace,Everton
+129,0,0,2022-10-29,Everton,Fulham,D,Matchweek 14,Everton,Fulham,0,0,Fulham,Everton,D,Matchweek 14,Fulham,Everton
+130,0,1,2022-11-05,Everton,Leicester City,L,Matchweek 15,Everton,Leicester City,0,0,Leicester City,Everton,W,Matchweek 15,Leicester City,Everton
+131,0,0,2022-11-12,Everton,Bournemouth,L,Matchweek 16,Everton,Bournemouth,0,0,Bournemouth,Everton,W,Matchweek 16,Bournemouth,Everton
+132,1,1,2022-12-26,Everton,Wolves,L,Matchweek 17,Everton,Wolves,1,0,Wolverhampton Wanderers,Everton,W,Matchweek 17,Wolves,Everton
+133,1,0,2022-12-31,Everton,Manchester City,D,Matchweek 18,Everton,Manchester City,1,1,Manchester City,Everton,D,Matchweek 18,Manchester City,Everton
+134,1,0,2023-01-03,Everton,Brighton,L,Matchweek 19,Everton,Brighton,1,0,Brighton and Hove Albion,Everton,W,Matchweek 19,Brighton,Everton
+135,1,0,2023-01-14,Everton,Southampton,L,Matchweek 20,Everton,Southampton,1,0,Southampton,Everton,W,Matchweek 20,Southampton,Everton
+136,0,0,2023-01-21,Everton,West Ham,L,Matchweek 21,Everton,West Ham,0,0,West Ham United,Everton,W,Matchweek 21,West Ham,Everton
+137,0,1,2023-02-04,Everton,Arsenal,W,Matchweek 22,Everton,Arsenal,0,0,Arsenal,Everton,L,Matchweek 22,Arsenal,Everton
+138,0,1,2023-02-13,Everton,Liverpool,L,Matchweek 23,Everton,Liverpool,0,1,Liverpool,Everton,W,Matchweek 23,Liverpool,Everton
+139,1,0,2022-08-06,Fulham,Liverpool,D,Matchweek 1,Fulham,Liverpool,1,0,Liverpool,Fulham,D,Matchweek 1,Liverpool,Fulham
+140,0,1,2022-08-13,Fulham,Wolves,D,Matchweek 2,Fulham,Wolves,0,0,Wolverhampton Wanderers,Fulham,D,Matchweek 2,Wolves,Fulham
+141,1,1,2022-08-27,Fulham,Arsenal,L,Matchweek 4,Fulham,Arsenal,1,1,Arsenal,Fulham,W,Matchweek 4,Arsenal,Fulham
+142,1,1,2022-08-30,Fulham,Brighton,W,Matchweek 5,Fulham,Brighton,1,0,Brighton and Hove Albion,Fulham,L,Matchweek 5,Brighton,Fulham
+143,1,1,2022-09-03,Fulham,Tottenham,L,Matchweek 6,Fulham,Tottenham,1,0,Tottenham Hotspur,Fulham,W,Matchweek 6,Tottenham,Fulham
+144,1,0,2022-10-01,Fulham,Newcastle Utd,L,Matchweek 9,Fulham,Newcastle Utd,1,0,Newcastle United,Fulham,W,Matchweek 9,Newcastle Utd,Fulham
+145,1,0,2022-10-09,Fulham,West Ham,L,Matchweek 10,Fulham,West Ham,1,1,West Ham United,Fulham,W,Matchweek 10,West Ham,Fulham
+146,1,0,2022-10-15,Fulham,Bournemouth,D,Matchweek 11,Fulham,Bournemouth,1,0,Bournemouth,Fulham,D,Matchweek 11,Bournemouth,Fulham
+147,0,0,2022-10-20,Fulham,Aston Villa,W,Matchweek 12,Fulham,Aston Villa,0,1,Aston Villa,Fulham,L,Matchweek 12,Aston Villa,Fulham
+148,1,1,2022-10-23,Fulham,Leeds United,W,Matchweek 13,Fulham,Leeds,1,0,Leeds United,Fulham,L,Matchweek 13,Leeds,Fulham
+149,0,0,2022-10-29,Fulham,Everton,D,Matchweek 14,Fulham,Everton,0,0,Everton,Fulham,D,Matchweek 14,Everton,Fulham
+150,1,1,2022-11-05,Fulham,Manchester City,L,Matchweek 15,Fulham,Manchester City,1,1,Manchester City,Fulham,W,Matchweek 15,Manchester City,Fulham
+151,1,1,2022-11-13,Fulham,Manchester Utd,L,Matchweek 16,Fulham,Manchester Utd,1,0,Manchester United,Fulham,W,Matchweek 16,Manchester Utd,Fulham
+152,0,0,2022-12-26,Fulham,Crystal Palace,W,Matchweek 17,Fulham,Crystal Palace,0,0,Crystal Palace,Fulham,L,Matchweek 17,Crystal Palace,Fulham
+153,0,0,2023-01-15,Fulham,Newcastle Utd,L,Matchweek 20,Fulham,Newcastle Utd,0,1,Newcastle United,Fulham,W,Matchweek 20,Newcastle Utd,Fulham
+154,0,1,2023-01-23,Fulham,Tottenham,L,Matchweek 21,Fulham,Tottenham,0,0,Tottenham Hotspur,Fulham,W,Matchweek 21,Tottenham,Fulham
+155,0,0,2023-02-03,Fulham,Chelsea,D,Matchweek 22,Fulham,Chelsea,0,1,Chelsea,Fulham,D,Matchweek 22,Chelsea,Fulham
+156,1,1,2022-08-06,Leeds United,Wolves,W,Matchweek 1,Leeds,Wolves,1,0,Wolverhampton Wanderers,Leeds United,L,Matchweek 1,Wolves,Leeds
+157,1,1,2022-08-13,Leeds United,Southampton,D,Matchweek 2,Leeds,Southampton,1,0,Southampton,Leeds United,D,Matchweek 2,Southampton,Leeds
+158,0,0,2022-08-21,Leeds United,Chelsea,W,Matchweek 3,Leeds,Chelsea,0,0,Chelsea,Leeds United,L,Matchweek 3,Chelsea,Leeds
+159,0,1,2022-08-27,Leeds United,Brighton,L,Matchweek 4,Leeds,Brighton,0,0,Brighton and Hove Albion,Leeds United,W,Matchweek 4,Brighton,Leeds
+160,1,1,2022-08-30,Leeds United,Everton,D,Matchweek 5,Leeds,Everton,1,1,Everton,Leeds United,D,Matchweek 5,Everton,Leeds
+161,1,1,2022-09-03,Leeds United,Brentford,L,Matchweek 6,Leeds,Brentford,1,1,Brentford,Leeds United,W,Matchweek 6,Brentford,Leeds
+162,0,1,2022-10-02,Leeds United,Aston Villa,D,Matchweek 9,Leeds,Aston Villa,0,0,Aston Villa,Leeds United,D,Matchweek 9,Aston Villa,Leeds
+163,1,0,2022-10-09,Leeds United,Crystal Palace,L,Matchweek 10,Leeds,Crystal Palace,1,1,Crystal Palace,Leeds United,W,Matchweek 10,Crystal Palace,Leeds
+164,0,0,2022-10-16,Leeds United,Arsenal,L,Matchweek 11,Leeds,Arsenal,0,0,Arsenal,Leeds United,W,Matchweek 11,Arsenal,Leeds
+165,0,0,2022-10-20,Leeds United,Leicester City,L,Matchweek 12,Leeds,Leicester City,0,0,Leicester City,Leeds United,W,Matchweek 12,Leicester City,Leeds
+166,1,0,2022-10-23,Leeds United,Fulham,L,Matchweek 13,Leeds,Fulham,1,1,Fulham,Leeds United,W,Matchweek 13,Fulham,Leeds
+167,1,1,2022-10-29,Leeds United,Liverpool,W,Matchweek 14,Leeds,Liverpool,1,1,Liverpool,Leeds United,L,Matchweek 14,Liverpool,Leeds
+168,1,1,2022-11-05,Leeds United,Bournemouth,W,Matchweek 15,Leeds,Bournemouth,1,0,Bournemouth,Leeds United,L,Matchweek 15,Bournemouth,Leeds
+169,1,1,2022-11-12,Leeds United,Tottenham,L,Matchweek 16,Leeds,Tottenham,1,1,Tottenham Hotspur,Leeds United,W,Matchweek 16,Tottenham,Leeds
+170,1,1,2022-12-28,Leeds United,Manchester City,L,Matchweek 17,Leeds,Manchester City,1,1,Manchester City,Leeds United,W,Matchweek 17,Manchester City,Leeds
+171,0,0,2022-12-31,Leeds United,Newcastle Utd,D,Matchweek 18,Leeds,Newcastle Utd,0,1,Newcastle United,Leeds United,D,Matchweek 18,Newcastle Utd,Leeds
+172,1,0,2023-01-04,Leeds United,West Ham,D,Matchweek 19,Leeds,West Ham,1,1,West Ham United,Leeds United,D,Matchweek 19,West Ham,Leeds
+173,1,0,2023-01-13,Leeds United,Aston Villa,L,Matchweek 20,Leeds,Aston Villa,1,1,Aston Villa,Leeds United,W,Matchweek 20,Aston Villa,Leeds
+174,0,0,2023-01-22,Leeds United,Brentford,D,Matchweek 21,Leeds,Brentford,0,0,Brentford,Leeds United,D,Matchweek 21,Brentford,Leeds
+175,1,1,2022-08-13,Leicester City,Arsenal,L,Matchweek 2,Leicester City,Arsenal,1,1,Arsenal,Leicester City,W,Matchweek 2,Arsenal,Leicester City
+176,1,0,2022-08-20,Leicester City,Southampton,L,Matchweek 3,Leicester City,Southampton,1,0,Southampton,Leicester City,W,Matchweek 3,Southampton,Leicester City
+177,1,0,2022-08-27,Leicester City,Chelsea,L,Matchweek 4,Leicester City,Chelsea,1,1,Chelsea,Leicester City,W,Matchweek 4,Chelsea,Leicester City
+178,0,0,2022-09-01,Leicester City,Manchester Utd,L,Matchweek 5,Leicester City,Manchester Utd,0,1,Manchester United,Leicester City,W,Matchweek 5,Manchester Utd,Leicester City
+179,1,0,2022-09-04,Leicester City,Brighton,L,Matchweek 6,Leicester City,Brighton,1,0,Brighton and Hove Albion,Leicester City,W,Matchweek 6,Brighton,Leicester City
+180,1,0,2022-09-17,Leicester City,Tottenham,L,Matchweek 8,Leicester City,Tottenham,1,0,Tottenham Hotspur,Leicester City,W,Matchweek 8,Tottenham,Leicester City
+181,1,0,2022-10-08,Leicester City,Bournemouth,L,Matchweek 10,Leicester City,Bournemouth,1,1,Bournemouth,Leicester City,W,Matchweek 10,Bournemouth,Leicester City
+182,0,0,2022-10-15,Leicester City,Crystal Palace,D,Matchweek 11,Leicester City,Crystal Palace,0,1,Crystal Palace,Leicester City,D,Matchweek 11,Crystal Palace,Leicester City
+183,0,0,2022-10-20,Leicester City,Leeds United,W,Matchweek 12,Leicester City,Leeds,0,0,Leeds United,Leicester City,L,Matchweek 12,Leeds,Leicester City
+184,0,0,2022-10-23,Leicester City,Wolves,W,Matchweek 13,Leicester City,Wolves,0,0,Wolverhampton Wanderers,Leicester City,L,Matchweek 13,Wolves,Leicester City
+185,0,0,2022-11-05,Leicester City,Everton,W,Matchweek 15,Leicester City,Everton,0,1,Everton,Leicester City,L,Matchweek 15,Everton,Leicester City
+186,0,0,2022-11-12,Leicester City,West Ham,W,Matchweek 16,Leicester City,West Ham,0,1,West Ham United,Leicester City,L,Matchweek 16,West Ham,Leicester City
+187,1,1,2022-12-30,Leicester City,Liverpool,L,Matchweek 18,Leicester City,Liverpool,1,0,Liverpool,Leicester City,W,Matchweek 18,Liverpool,Leicester City
+188,1,0,2023-01-21,Leicester City,Brighton,D,Matchweek 21,Leicester City,Brighton,1,1,Brighton and Hove Albion,Leicester City,D,Matchweek 21,Brighton,Leicester City
+189,1,0,2023-02-04,Leicester City,Aston Villa,W,Matchweek 22,Leicester City,Aston Villa,1,0,Aston Villa,Leicester City,L,Matchweek 22,Aston Villa,Leicester City
+190,1,0,2023-02-11,Leicester City,Tottenham,W,Matchweek 23,Leicester City,Tottenham,1,1,Tottenham Hotspur,Leicester City,L,Matchweek 23,Tottenham,Leicester City
+191,1,0,2022-08-06,Liverpool,Fulham,D,Matchweek 1,Liverpool,Fulham,1,0,Fulham,Liverpool,D,Matchweek 1,Fulham,Liverpool
+192,1,1,2022-08-15,Liverpool,Crystal Palace,D,Matchweek 2,Liverpool,Crystal Palace,1,1,Crystal Palace,Liverpool,D,Matchweek 2,Crystal Palace,Liverpool
+193,1,1,2022-08-22,Liverpool,Manchester Utd,L,Matchweek 3,Liverpool,Manchester Utd,1,0,Manchester United,Liverpool,W,Matchweek 3,Manchester Utd,Liverpool
+194,0,1,2022-08-27,Liverpool,Bournemouth,W,Matchweek 4,Liverpool,Bournemouth,0,0,Bournemouth,Liverpool,L,Matchweek 4,Bournemouth,Liverpool
+195,1,1,2022-08-31,Liverpool,Newcastle Utd,W,Matchweek 5,Liverpool,Newcastle Utd,1,1,Newcastle United,Liverpool,L,Matchweek 5,Newcastle Utd,Liverpool
+196,0,1,2022-09-03,Liverpool,Everton,D,Matchweek 6,Liverpool,Everton,0,1,Everton,Liverpool,D,Matchweek 6,Everton,Liverpool
+197,1,1,2022-10-01,Liverpool,Brighton,D,Matchweek 9,Liverpool,Brighton,1,1,Brighton and Hove Albion,Liverpool,D,Matchweek 9,Brighton,Liverpool
+198,1,1,2022-10-09,Liverpool,Arsenal,L,Matchweek 10,Liverpool,Arsenal,1,1,Arsenal,Liverpool,W,Matchweek 10,Arsenal,Liverpool
+199,0,0,2022-10-19,Liverpool,West Ham,W,Matchweek 12,Liverpool,West Ham,0,1,West Ham United,Liverpool,L,Matchweek 12,West Ham,Liverpool
+200,1,1,2022-10-29,Liverpool,Leeds United,L,Matchweek 14,Liverpool,Leeds,1,1,Leeds United,Liverpool,W,Matchweek 14,Leeds,Liverpool
+201,1,1,2022-11-06,Liverpool,Tottenham,W,Matchweek 15,Liverpool,Tottenham,1,1,Tottenham Hotspur,Liverpool,L,Matchweek 15,Tottenham,Liverpool
+202,1,1,2022-11-12,Liverpool,Southampton,W,Matchweek 16,Liverpool,Southampton,1,1,Southampton,Liverpool,L,Matchweek 16,Southampton,Liverpool
+203,1,1,2022-12-26,Liverpool,Aston Villa,W,Matchweek 17,Liverpool,Aston Villa,1,0,Aston Villa,Liverpool,L,Matchweek 17,Aston Villa,Liverpool
+204,1,0,2022-12-30,Liverpool,Leicester City,W,Matchweek 18,Liverpool,Leicester City,1,1,Leicester City,Liverpool,L,Matchweek 18,Leicester City,Liverpool
+205,1,0,2023-01-02,Liverpool,Brentford,L,Matchweek 19,Liverpool,Brentford,1,0,Brentford,Liverpool,W,Matchweek 19,Brentford,Liverpool
+206,0,1,2023-01-14,Liverpool,Brighton,L,Matchweek 20,Liverpool,Brighton,0,0,Brighton and Hove Albion,Liverpool,W,Matchweek 20,Brighton,Liverpool
+207,0,0,2023-01-21,Liverpool,Chelsea,D,Matchweek 21,Liverpool,Chelsea,0,0,Chelsea,Liverpool,D,Matchweek 21,Chelsea,Liverpool
+208,0,1,2023-02-04,Liverpool,Wolves,L,Matchweek 22,Liverpool,Wolves,0,0,Wolverhampton Wanderers,Liverpool,W,Matchweek 22,Wolves,Liverpool
+209,0,1,2023-02-13,Liverpool,Everton,W,Matchweek 23,Liverpool,Everton,0,1,Everton,Liverpool,L,Matchweek 23,Everton,Liverpool
+210,0,0,2022-08-07,Manchester City,West Ham,W,Matchweek 1,Manchester City,West Ham,0,1,West Ham United,Manchester City,L,Matchweek 1,West Ham,Manchester City
+211,0,1,2022-08-13,Manchester City,Bournemouth,W,Matchweek 2,Manchester City,Bournemouth,0,1,Bournemouth,Manchester City,L,Matchweek 2,Bournemouth,Manchester City
+212,1,1,2022-08-27,Manchester City,Crystal Palace,W,Matchweek 4,Manchester City,Crystal Palace,1,0,Crystal Palace,Manchester City,L,Matchweek 4,Crystal Palace,Manchester City
+213,1,0,2022-09-03,Manchester City,Aston Villa,D,Matchweek 6,Manchester City,Aston Villa,1,1,Aston Villa,Manchester City,D,Matchweek 6,Aston Villa,Manchester City
+214,0,0,2022-09-17,Manchester City,Wolves,W,Matchweek 8,Manchester City,Wolves,0,0,Wolverhampton Wanderers,Manchester City,L,Matchweek 8,Wolves,Manchester City
+215,1,1,2022-10-02,Manchester City,Manchester Utd,W,Matchweek 9,Manchester City,Manchester Utd,1,0,Manchester United,Manchester City,L,Matchweek 9,Manchester Utd,Manchester City
+216,0,1,2022-10-08,Manchester City,Southampton,W,Matchweek 10,Manchester City,Southampton,0,0,Southampton,Manchester City,L,Matchweek 10,Southampton,Manchester City
+217,1,1,2022-11-05,Manchester City,Fulham,W,Matchweek 15,Manchester City,Fulham,1,1,Fulham,Manchester City,L,Matchweek 15,Fulham,Manchester City
+218,1,1,2022-11-12,Manchester City,Brentford,L,Matchweek 16,Manchester City,Brentford,1,1,Brentford,Manchester City,W,Matchweek 16,Brentford,Manchester City
+219,1,1,2022-12-28,Manchester City,Leeds United,W,Matchweek 17,Manchester City,Leeds,1,1,Leeds United,Manchester City,L,Matchweek 17,Leeds,Manchester City
+220,1,1,2022-12-31,Manchester City,Everton,D,Matchweek 18,Manchester City,Everton,1,0,Everton,Manchester City,D,Matchweek 18,Everton,Manchester City
+221,0,0,2023-01-05,Manchester City,Chelsea,W,Matchweek 19,Manchester City,Chelsea,0,0,Chelsea,Manchester City,L,Matchweek 19,Chelsea,Manchester City
+222,1,0,2023-01-14,Manchester City,Manchester Utd,L,Matchweek 20,Manchester City,Manchester Utd,1,0,Manchester United,Manchester City,W,Matchweek 20,Manchester Utd,Manchester City
+223,1,1,2023-01-19,Manchester City,Tottenham,W,Matchweek 7,Manchester City,Tottenham,1,0,Tottenham Hotspur,Manchester City,L,Matchweek 7,Tottenham,Manchester City
+224,0,0,2023-01-22,Manchester City,Wolves,W,Matchweek 21,Manchester City,Wolves,0,0,Wolverhampton Wanderers,Manchester City,L,Matchweek 21,Wolves,Manchester City
+225,0,0,2023-02-05,Manchester City,Tottenham,L,Matchweek 22,Manchester City,Tottenham,0,1,Tottenham Hotspur,Manchester City,W,Matchweek 22,Tottenham,Manchester City
+226,1,0,2023-02-12,Manchester City,Aston Villa,W,Matchweek 23,Manchester City,Aston Villa,1,0,Aston Villa,Manchester City,L,Matchweek 23,Aston Villa,Manchester City
+227,1,0,2022-08-07,Manchester United,Brighton,L,Matchweek 1,Manchester Utd,Brighton,1,1,Brighton and Hove Albion,Manchester Utd,W,Matchweek 1,Brighton,Manchester Utd
+228,1,0,2022-08-22,Manchester United,Liverpool,W,Matchweek 3,Manchester Utd,Liverpool,1,1,Liverpool,Manchester Utd,L,Matchweek 3,Liverpool,Manchester Utd
+229,0,1,2022-08-27,Manchester United,Southampton,W,Matchweek 4,Manchester Utd,Southampton,0,1,Southampton,Manchester Utd,L,Matchweek 4,Southampton,Manchester Utd
+230,0,1,2022-09-01,Manchester United,Leicester City,W,Matchweek 5,Manchester Utd,Leicester City,0,0,Leicester City,Manchester Utd,L,Matchweek 5,Leicester City,Manchester Utd
+231,1,1,2022-09-04,Manchester United,Arsenal,W,Matchweek 6,Manchester Utd,Arsenal,1,1,Arsenal,Manchester Utd,L,Matchweek 6,Arsenal,Manchester Utd
+232,1,0,2022-10-02,Manchester United,Manchester City,L,Matchweek 9,Manchester Utd,Manchester City,1,1,Manchester City,Manchester Utd,W,Matchweek 9,Manchester City,Manchester Utd
+233,1,0,2022-10-09,Manchester United,Everton,W,Matchweek 10,Manchester Utd,Everton,1,1,Everton,Manchester Utd,L,Matchweek 10,Everton,Manchester Utd
+234,0,0,2022-10-16,Manchester United,Newcastle Utd,D,Matchweek 11,Manchester Utd,Newcastle Utd,0,0,Newcastle United,Manchester Utd,D,Matchweek 11,Newcastle Utd,Manchester Utd
+235,1,0,2022-10-22,Manchester United,Chelsea,D,Matchweek 13,Manchester Utd,Chelsea,1,0,Chelsea,Manchester Utd,D,Matchweek 13,Chelsea,Manchester Utd
+236,0,1,2022-10-30,Manchester United,West Ham,W,Matchweek 14,Manchester Utd,West Ham,0,1,West Ham United,Manchester Utd,L,Matchweek 14,West Ham,Manchester Utd
+237,1,0,2022-11-06,Manchester United,Aston Villa,L,Matchweek 15,Manchester Utd,Aston Villa,1,1,Aston Villa,Manchester Utd,W,Matchweek 15,Aston Villa,Manchester Utd
+238,1,0,2022-11-13,Manchester United,Fulham,W,Matchweek 16,Manchester Utd,Fulham,1,1,Fulham,Manchester Utd,L,Matchweek 16,Fulham,Manchester Utd
+239,0,0,2022-12-31,Manchester United,Wolves,W,Matchweek 18,Manchester Utd,Wolves,0,0,Wolverhampton Wanderers,Manchester Utd,L,Matchweek 18,Wolves,Manchester Utd
+240,0,0,2023-01-03,Manchester United,Bournemouth,W,Matchweek 19,Manchester Utd,Bournemouth,0,0,Bournemouth,Manchester Utd,L,Matchweek 19,Bournemouth,Manchester Utd
+241,1,0,2023-01-14,Manchester United,Manchester City,W,Matchweek 20,Manchester Utd,Manchester City,1,0,Manchester City,Manchester Utd,L,Matchweek 20,Manchester City,Manchester Utd
+242,1,1,2023-01-18,Manchester United,Crystal Palace,D,Matchweek 7,Manchester Utd,Crystal Palace,1,0,Crystal Palace,Manchester Utd,D,Matchweek 7,Crystal Palace,Manchester Utd
+243,1,0,2023-01-22,Manchester United,Arsenal,L,Matchweek 21,Manchester Utd,Arsenal,1,0,Arsenal,Manchester Utd,W,Matchweek 21,Arsenal,Manchester Utd
+244,1,0,2023-02-04,Manchester United,Crystal Palace,W,Matchweek 22,Manchester Utd,Crystal Palace,1,0,Crystal Palace,Manchester Utd,L,Matchweek 22,Crystal Palace,Manchester Utd
+245,1,1,2022-08-31,Newcastle United,Liverpool,L,Matchweek 5,Newcastle Utd,Liverpool,1,1,Liverpool,Newcastle Utd,W,Matchweek 5,Liverpool,Newcastle Utd
+246,0,0,2022-09-03,Newcastle United,Crystal Palace,D,Matchweek 6,Newcastle Utd,Crystal Palace,0,0,Crystal Palace,Newcastle Utd,D,Matchweek 6,Crystal Palace,Newcastle Utd
+247,1,1,2022-09-17,Newcastle United,Bournemouth,D,Matchweek 8,Newcastle Utd,Bournemouth,1,0,Bournemouth,Newcastle Utd,D,Matchweek 8,Bournemouth,Newcastle Utd
+248,1,0,2022-10-01,Newcastle United,Fulham,W,Matchweek 9,Newcastle Utd,Fulham,1,0,Fulham,Newcastle Utd,L,Matchweek 9,Fulham,Newcastle Utd
+249,0,0,2022-10-16,Newcastle United,Manchester Utd,D,Matchweek 11,Newcastle Utd,Manchester Utd,0,0,Manchester United,Newcastle Utd,D,Matchweek 11,Manchester Utd,Newcastle Utd
+250,0,0,2022-10-19,Newcastle United,Everton,W,Matchweek 12,Newcastle Utd,Everton,0,1,Everton,Newcastle Utd,L,Matchweek 12,Everton,Newcastle Utd
+251,0,1,2022-12-31,Newcastle United,Leeds United,D,Matchweek 18,Newcastle Utd,Leeds,0,0,Leeds United,Newcastle Utd,D,Matchweek 18,Leeds,Newcastle Utd
+252,0,1,2023-01-03,Newcastle United,Arsenal,D,Matchweek 19,Newcastle Utd,Arsenal,0,0,Arsenal,Newcastle Utd,D,Matchweek 19,Arsenal,Newcastle Utd
+253,0,1,2023-01-15,Newcastle United,Fulham,W,Matchweek 20,Newcastle Utd,Fulham,0,0,Fulham,Newcastle Utd,L,Matchweek 20,Fulham,Newcastle Utd
+254,1,0,2022-08-13,Southampton,Leeds United,D,Matchweek 2,Southampton,Leeds,1,1,Leeds United,Southampton,D,Matchweek 2,Leeds,Southampton
+255,1,0,2022-08-20,Southampton,Leicester City,W,Matchweek 3,Southampton,Leicester City,1,0,Leicester City,Southampton,L,Matchweek 3,Leicester City,Southampton
+256,0,1,2022-08-27,Southampton,Manchester Utd,L,Matchweek 4,Southampton,Manchester Utd,0,1,Manchester United,Southampton,W,Matchweek 4,Manchester Utd,Southampton
+257,1,1,2022-08-30,Southampton,Chelsea,W,Matchweek 5,Southampton,Chelsea,1,0,Chelsea,Southampton,L,Matchweek 5,Chelsea,Southampton
+258,0,0,2022-09-03,Southampton,Wolves,L,Matchweek 6,Southampton,Wolves,0,1,Wolverhampton Wanderers,Southampton,W,Matchweek 6,Wolves,Southampton
+259,0,0,2022-09-16,Southampton,Aston Villa,L,Matchweek 8,Southampton,Aston Villa,0,0,Aston Villa,Southampton,W,Matchweek 8,Aston Villa,Southampton
+260,1,0,2022-10-01,Southampton,Everton,L,Matchweek 9,Southampton,Everton,1,0,Everton,Southampton,W,Matchweek 9,Everton,Southampton
+261,0,0,2022-10-08,Southampton,Manchester City,L,Matchweek 10,Southampton,Manchester City,0,1,Manchester City,Southampton,W,Matchweek 10,Manchester City,Southampton
+262,1,1,2022-10-16,Southampton,West Ham,D,Matchweek 11,Southampton,West Ham,1,0,West Ham United,Southampton,D,Matchweek 11,West Ham,Southampton
+263,0,1,2022-10-19,Southampton,Bournemouth,W,Matchweek 12,Southampton,Bournemouth,0,0,Bournemouth,Southampton,L,Matchweek 12,Bournemouth,Southampton
+264,1,1,2022-10-23,Southampton,Arsenal,D,Matchweek 13,Southampton,Arsenal,1,0,Arsenal,Southampton,D,Matchweek 13,Arsenal,Southampton
+265,0,0,2022-10-29,Southampton,Crystal Palace,L,Matchweek 14,Southampton,Crystal Palace,0,1,Crystal Palace,Southampton,W,Matchweek 14,Crystal Palace,Southampton
+266,1,1,2022-11-12,Southampton,Liverpool,L,Matchweek 16,Southampton,Liverpool,1,1,Liverpool,Southampton,W,Matchweek 16,Liverpool,Southampton
+267,1,0,2022-12-26,Southampton,Brighton,L,Matchweek 17,Southampton,Brighton,1,0,Brighton and Hove Albion,Southampton,W,Matchweek 17,Brighton,Southampton
+268,1,0,2023-01-14,Southampton,Everton,W,Matchweek 20,Southampton,Everton,1,0,Everton,Southampton,L,Matchweek 20,Everton,Southampton
+269,0,0,2023-01-21,Southampton,Aston Villa,L,Matchweek 21,Southampton,Aston Villa,0,0,Aston Villa,Southampton,W,Matchweek 21,Aston Villa,Southampton
+270,0,0,2023-02-04,Southampton,Brentford,L,Matchweek 22,Southampton,Brentford,0,0,Brentford,Southampton,W,Matchweek 22,Brentford,Southampton
+271,1,0,2023-02-11,Southampton,Wolves,L,Matchweek 23,Southampton,Wolves,1,0,Wolverhampton Wanderers,Southampton,W,Matchweek 23,Wolves,Southampton
+272,1,0,2022-08-31,Tottenham Hotspur,West Ham,D,Matchweek 5,Tottenham,West Ham,1,0,West Ham United,Tottenham,D,Matchweek 5,West Ham,Tottenham
+273,1,0,2022-09-03,Tottenham Hotspur,Fulham,W,Matchweek 6,Tottenham,Fulham,1,1,Fulham,Tottenham,L,Matchweek 6,Fulham,Tottenham
+274,1,0,2022-09-17,Tottenham Hotspur,Leicester City,W,Matchweek 8,Tottenham,Leicester City,1,0,Leicester City,Tottenham,L,Matchweek 8,Leicester City,Tottenham
+275,1,0,2022-10-01,Tottenham Hotspur,Arsenal,L,Matchweek 9,Tottenham,Arsenal,1,1,Arsenal,Tottenham,W,Matchweek 9,Arsenal,Tottenham
+276,0,0,2022-10-08,Tottenham Hotspur,Brighton,W,Matchweek 10,Tottenham,Brighton,0,1,Brighton and Hove Albion,Tottenham,L,Matchweek 10,Brighton,Tottenham
+277,0,0,2022-10-15,Tottenham Hotspur,Everton,W,Matchweek 11,Tottenham,Everton,0,0,Everton,Tottenham,L,Matchweek 11,Everton,Tottenham
+278,1,1,2022-11-06,Tottenham Hotspur,Liverpool,L,Matchweek 15,Tottenham,Liverpool,1,1,Liverpool,Tottenham,W,Matchweek 15,Liverpool,Tottenham
+279,1,1,2022-11-12,Tottenham Hotspur,Leeds United,W,Matchweek 16,Tottenham,Leeds,1,1,Leeds United,Tottenham,L,Matchweek 16,Leeds,Tottenham
+280,1,1,2022-12-26,Tottenham Hotspur,Brentford,D,Matchweek 17,Tottenham,Brentford,1,0,Brentford,Tottenham,D,Matchweek 17,Brentford,Tottenham
+281,0,0,2023-01-01,Tottenham Hotspur,Aston Villa,L,Matchweek 18,Tottenham,Aston Villa,0,1,Aston Villa,Tottenham,W,Matchweek 18,Aston Villa,Tottenham
+282,0,0,2023-01-04,Tottenham Hotspur,Crystal Palace,W,Matchweek 19,Tottenham,Crystal Palace,0,0,Crystal Palace,Tottenham,L,Matchweek 19,Crystal Palace,Tottenham
+283,0,0,2023-01-15,Tottenham Hotspur,Arsenal,L,Matchweek 20,Tottenham,Arsenal,0,0,Arsenal,Tottenham,W,Matchweek 20,Arsenal,Tottenham
+284,1,0,2023-01-19,Tottenham Hotspur,Manchester City,L,Matchweek 7,Tottenham,Manchester City,1,1,Manchester City,Tottenham,W,Matchweek 7,Manchester City,Tottenham
+285,0,0,2023-01-23,Tottenham Hotspur,Fulham,W,Matchweek 21,Tottenham,Fulham,0,1,Fulham,Tottenham,L,Matchweek 21,Fulham,Tottenham
+286,0,1,2023-02-05,Tottenham Hotspur,Manchester City,W,Matchweek 22,Tottenham,Manchester City,0,0,Manchester City,Tottenham,L,Matchweek 22,Manchester City,Tottenham
+287,1,1,2023-02-11,Tottenham Hotspur,Leicester City,L,Matchweek 23,Tottenham,Leicester City,1,0,Leicester City,Tottenham,W,Matchweek 23,Leicester City,Tottenham
+288,0,1,2022-08-07,West Ham United,Manchester City,L,Matchweek 1,West Ham,Manchester City,0,0,Manchester City,West Ham,W,Matchweek 1,Manchester City,West Ham
+289,0,0,2022-08-21,West Ham United,Brighton,L,Matchweek 3,West Ham,Brighton,0,0,Brighton and Hove Albion,West Ham,W,Matchweek 3,Brighton,West Ham
+290,0,0,2022-08-28,West Ham United,Aston Villa,W,Matchweek 4,West Ham,Aston Villa,0,0,Aston Villa,West Ham,L,Matchweek 4,Aston Villa,West Ham
+291,1,0,2022-08-31,West Ham United,Tottenham,D,Matchweek 5,West Ham,Tottenham,1,0,Tottenham Hotspur,West Ham,D,Matchweek 5,Tottenham,West Ham
+292,1,0,2022-09-03,West Ham United,Chelsea,L,Matchweek 6,West Ham,Chelsea,1,1,Chelsea,West Ham,W,Matchweek 6,Chelsea,West Ham
+293,0,0,2022-09-18,West Ham United,Everton,L,Matchweek 8,West Ham,Everton,0,0,Everton,West Ham,W,Matchweek 8,Everton,West Ham
+294,0,0,2022-10-01,West Ham United,Wolves,W,Matchweek 9,West Ham,Wolves,0,0,Wolverhampton Wanderers,West Ham,L,Matchweek 9,Wolves,West Ham
+295,1,1,2022-10-09,West Ham United,Fulham,W,Matchweek 10,West Ham,Fulham,1,0,Fulham,West Ham,L,Matchweek 10,Fulham,West Ham
+296,1,0,2022-10-16,West Ham United,Southampton,D,Matchweek 11,West Ham,Southampton,1,1,Southampton,West Ham,D,Matchweek 11,Southampton,West Ham
+297,0,1,2022-10-19,West Ham United,Liverpool,L,Matchweek 12,West Ham,Liverpool,0,0,Liverpool,West Ham,W,Matchweek 12,Liverpool,West Ham
+298,0,1,2022-10-24,West Ham United,Bournemouth,W,Matchweek 13,West Ham,Bournemouth,0,0,Bournemouth,West Ham,L,Matchweek 13,Bournemouth,West Ham
+299,0,1,2022-10-30,West Ham United,Manchester Utd,L,Matchweek 14,West Ham,Manchester Utd,0,1,Manchester United,West Ham,W,Matchweek 14,Manchester Utd,West Ham
+300,1,0,2022-11-06,West Ham United,Crystal Palace,L,Matchweek 15,West Ham,Crystal Palace,1,0,Crystal Palace,West Ham,W,Matchweek 15,Crystal Palace,West Ham
+301,0,1,2022-11-12,West Ham United,Leicester City,L,Matchweek 16,West Ham,Leicester City,0,0,Leicester City,West Ham,W,Matchweek 16,Leicester City,West Ham
+302,1,1,2022-12-26,West Ham United,Arsenal,L,Matchweek 17,West Ham,Arsenal,1,1,Arsenal,West Ham,W,Matchweek 17,Arsenal,West Ham
+303,0,1,2022-12-30,West Ham United,Brentford,L,Matchweek 18,West Ham,Brentford,0,0,Brentford,West Ham,W,Matchweek 18,Brentford,West Ham
+304,1,1,2023-01-04,West Ham United,Leeds United,D,Matchweek 19,West Ham,Leeds,1,0,Leeds United,West Ham,D,Matchweek 19,Leeds,West Ham
+305,0,1,2023-01-14,West Ham United,Wolves,L,Matchweek 20,West Ham,Wolves,0,0,Wolverhampton Wanderers,West Ham,W,Matchweek 20,Wolves,West Ham
+306,0,0,2023-01-21,West Ham United,Everton,W,Matchweek 21,West Ham,Everton,0,0,Everton,West Ham,L,Matchweek 21,Everton,West Ham
+307,1,0,2023-02-11,West Ham United,Chelsea,D,Matchweek 23,West Ham,Chelsea,1,1,Chelsea,West Ham,D,Matchweek 23,Chelsea,West Ham
+308,1,0,2022-08-06,Wolverhampton Wanderers,Leeds United,L,Matchweek 1,Wolves,Leeds,1,1,Leeds United,Wolves,W,Matchweek 1,Leeds,Wolves
+309,0,0,2022-08-13,Wolverhampton Wanderers,Fulham,D,Matchweek 2,Wolves,Fulham,0,1,Fulham,Wolves,D,Matchweek 2,Fulham,Wolves
+310,0,0,2022-08-31,Wolverhampton Wanderers,Bournemouth,D,Matchweek 5,Wolves,Bournemouth,0,0,Bournemouth,Wolves,D,Matchweek 5,Bournemouth,Wolves
+311,0,1,2022-09-03,Wolverhampton Wanderers,Southampton,W,Matchweek 6,Wolves,Southampton,0,0,Southampton,Wolves,L,Matchweek 6,Southampton,Wolves
+312,0,0,2022-09-17,Wolverhampton Wanderers,Manchester City,L,Matchweek 8,Wolves,Manchester City,0,0,Manchester City,Wolves,W,Matchweek 8,Manchester City,Wolves
+313,0,0,2022-10-01,Wolverhampton Wanderers,West Ham,L,Matchweek 9,Wolves,West Ham,0,0,West Ham United,Wolves,W,Matchweek 9,West Ham,Wolves
+314,0,0,2022-10-08,Wolverhampton Wanderers,Chelsea,L,Matchweek 10,Wolves,Chelsea,0,0,Chelsea,Wolves,W,Matchweek 10,Chelsea,Wolves
+315,1,0,2022-10-18,Wolverhampton Wanderers,Crystal Palace,L,Matchweek 12,Wolves,Crystal Palace,1,0,Crystal Palace,Wolves,W,Matchweek 12,Crystal Palace,Wolves
+316,0,0,2022-10-23,Wolverhampton Wanderers,Leicester City,L,Matchweek 13,Wolves,Leicester City,0,0,Leicester City,Wolves,W,Matchweek 13,Leicester City,Wolves
+317,1,0,2022-10-29,Wolverhampton Wanderers,Brentford,D,Matchweek 14,Wolves,Brentford,1,0,Brentford,Wolves,D,Matchweek 14,Brentford,Wolves
+318,0,0,2022-11-12,Wolverhampton Wanderers,Arsenal,L,Matchweek 16,Wolves,Arsenal,0,0,Arsenal,Wolves,W,Matchweek 16,Arsenal,Wolves
+319,1,0,2022-12-26,Wolverhampton Wanderers,Everton,W,Matchweek 17,Wolves,Everton,1,1,Everton,Wolves,L,Matchweek 17,Everton,Wolves
+320,0,0,2022-12-31,Wolverhampton Wanderers,Manchester Utd,L,Matchweek 18,Wolves,Manchester Utd,0,0,Manchester United,Wolves,W,Matchweek 18,Manchester Utd,Wolves
+321,1,0,2023-01-04,Wolverhampton Wanderers,Aston Villa,D,Matchweek 19,Wolves,Aston Villa,1,1,Aston Villa,Wolves,D,Matchweek 19,Aston Villa,Wolves
+322,0,0,2023-01-14,Wolverhampton Wanderers,West Ham,W,Matchweek 20,Wolves,West Ham,0,1,West Ham United,Wolves,L,Matchweek 20,West Ham,Wolves
+323,0,0,2023-01-22,Wolverhampton Wanderers,Manchester City,L,Matchweek 21,Wolves,Manchester City,0,0,Manchester City,Wolves,W,Matchweek 21,Manchester City,Wolves
+324,0,0,2023-02-04,Wolverhampton Wanderers,Liverpool,W,Matchweek 22,Wolves,Liverpool,0,1,Liverpool,Wolves,L,Matchweek 22,Liverpool,Wolves
+325,1,0,2023-02-11,Wolverhampton Wanderers,Southampton,W,Matchweek 23,Wolves,Southampton,1,0,Southampton,Wolves,L,Matchweek 23,Southampton,Wolves

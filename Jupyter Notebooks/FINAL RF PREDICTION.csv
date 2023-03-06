@@ -1,0 +1,19 @@
+,date,comp,team,opponent,target_pred,btts_pred,above_pred
+157,2023-01-03,Premier League,Arsenal,Newcastle Utd,1,0,1
+243,2023-04-01,Premier League,Aston Villa,Wolves,0,0,1
+326,2023-03-01,Premier League,Bournemouth,Manchester Utd,0,0,0
+336,2023-01-02,Premier League,Brentford,Liverpool,1,0,1
+483,2023-01-03,Premier League,Brighton and Hove Albion,Everton,1,1,1
+758,2023-05-01,Premier League,Chelsea,Manchester City,1,0,1
+910,2023-04-01,Premier League,Crystal Palace,Tottenham,0,0,1
+1048,2023-01-03,Premier League,Everton,Brighton,0,0,0
+1171,2023-04-01,Premier League,Leeds United,West Ham,0,0,0
+1324,2023-01-03,Premier League,Leicester City,Fulham,0,1,0
+1474,2023-01-02,Premier League,Liverpool,Brentford,1,1,1
+1590,2023-01-05,Premier League,Manchester City,Chelsea,1,1,1
+1745,2023-01-03,Premier League,Manchester United,Bournemouth,1,1,1
+1893,2023-01-03,Premier League,Newcastle United,Arsenal,0,1,1
+2106,2023-04-01,Premier League,Southampton,Nott'ham Forest,0,0,1
+2254,2023-01-04,Premier League,Tottenham Hotspur,Crystal Palace,1,1,1
+2555,2023-04-01,Premier League,West Ham United,Leeds United,0,1,1
+2676,2023-04-01,Premier League,Wolverhampton Wanderers,Aston Villa,0,1,0
